@@ -1345,6 +1345,7 @@ permalink: /csharp
 * [Microsoft Azure Event Hubs .NET](https://github.com/Azure/azure-event-hubs-dotnet)：Azure Event Hubs是一种高度可扩展的发布-订阅服务，可以每秒摄取数百万条事件并将它们流式传输到多个应用程序。
 * [Ziggurat](https://github.com/rafaelpadovezi/Ziggurat)：一个用于创建消息消费者的.NET库。
 * [SqsToolbox](https://github.com/dotnetcloud/SqsToolbox)：一套库、扩展和辅助工具，用于支持从.NET应用程序使用AWS简单队列服务。
+* [Message Router](https://github.com/MarcinZiabek/message-router)：一个轻量级的消息路由库，支持各种消息传递框架和序列化格式。
 
 ## 事件总线
 
@@ -4418,6 +4419,7 @@ permalink: /csharp
 * [Obfuscator](https://github.com/kent-id/Obfuscation)：Obfuscator是一个C#库，它可以将非负整数转换为8个字符的字符串，生成类似于YouTube视频ID的结果。
 * [Blazor.SubtleCrypto](https://github.com/memd24/Blazor.SubtleCrypto)：Blazor.SubtleCrypto提供数据加密和解密服务。
 * [CryptoCsharp](https://github.com/nagilum/cryptocsharp)：一个小型C#库，用于使用对称(AES)和非对称(RSA)算法对数据进行加密和解密。
+* [EncryptionLib](https://github.com/HansHinnekint/EncryptionLib)：EncryptionLib库用于对字符串进行基本的AES加密，生成和使用一次性密码，序列化和加密对象。
 
 ## 密码库
 
@@ -4801,6 +4803,7 @@ permalink: /csharp
 * [PersianDateTime.Core](https://github.com/hamed-shirbandi/PersianDateTime.Core)：.NET波斯历库。
 * [PersianDate.NET](https://github.com/imanabidi/PersianDate.NET)：一个简单的库，用于在波斯语日期与格鲁吉亚日期之间转换。
 * [SharpSxwnl](https://github.com/HongchenMeng/SharpSxwnl)：农历核心算法类库。
+* [ICalendarNet](https://github.com/VandenboschVincent/ICalendarNet)：ICalendarNet是一个基于.NET的iCalendar类库，旨在提供符合RFC 5545标准的功能，同时与流行的日历应用程序和库完全兼容。
 
 ## 假期库
 
@@ -4877,6 +4880,7 @@ permalink: /csharp
 * [ValueLink](https://github.com/archi-Doc/ValueLink)：ValueLink是一个C#源代码生成器和集合库，用于通过多个索引和排序来管理对象。
 * [NSlice](https://github.com/nabuk/NSlice)：NSlice是一个免费的.NET库，旨在让你在操作集合时拥有更大的灵活性，其最初的灵感来源于Python的切片功能。
 * [More Collections](https://github.com/branch-predict/more-collections)：More Collections提供一套额外集合。
+* [FluentDictionary](https://github.com/LyttleG/FluentDictionary)：对Dictionary进行流式封装，提供序列化和流式创建等附加功能。
 
 ## 数组库
 
@@ -5442,6 +5446,7 @@ permalink: /csharp
 * [LinqCube](https://github.com/arthurzaczek/linq-cube)：LinqCube是一个小型实用库，用于在代码中定义度量和维度，并针对LINQ查询执行内存中的多维数据集。
 * [WebLinq](https://github.com/atifaziz/WebLinq)：WebLINQ是一个用于.NET的库，用于将Web功能引入LINQ。
 * [Transducers .NET](https://github.com/bmurphy1976/transducers-dotnet)：这是用C#编写的.NET平台上的Transducers实现。
+* [MetaLinq](https://github.com/mcintyre321/metalinq)：序列化、修改和反序列化LINQ表达式。
 
 ## 表达式树
 
@@ -5556,6 +5561,7 @@ permalink: /csharp
 * [DeepClone](https://github.com/night-moon-studio/DeepClone)：基于Natasha的深度克隆库。
 * [Nuclex.Cloning](https://github.com/junweilee/Nuclex.Cloning)：这是一个基于C#的.NET 4库，用于深度克隆对象。
 * [DotNetMapper](https://github.com/sanamhub/DotNetMapper)：DotNetMapper是一个零配置的.NET对象映射器。
+* [GeorgeCloney](https://github.com/laazyj/GeorgeCloney)：用于深度克隆对象的实用扩展方法。
 
 ## 类型转换
 
@@ -5886,6 +5892,22 @@ permalink: /csharp
 * [LsMsgPack](https://github.com/mlsomers/LsMsgPack)：适用于.NET的快速MessagePack序列化器。
 * [Open.Serialization](https://github.com/Open-NET-Libraries/Open.Serialization)：Open.Serialization是一个.NET库，提供与DI/IoC无关的序列化接口，用于注入任意序列化库。
 * [SimpleMsgPack.Net](https://github.com/ymofen/SimpleMsgPack.Net)：MessagePack C#实现。
+* [SilverlightSerializer](https://github.com/whydoidoit/Silverlight-Serializer-v2)：.NET和Silverlight的二进制序列化器。
+* [Binary](https://github.com/afxres/binary)：适用于C#和F#的序列化库。
+* [AqlaSerializer](https://github.com/AqlaSolutions/AqlaSerializer)：AqlaSerializer是一款快速且可移植的二进制序列化器。
+* [Byter](https://github.com/alec1o/Byter)：Byter是一个用于将数据序列化和反序列化为字节的C#库，支持无限的复杂性和深度。
+* [ABSave](https://github.com/ABCo-Src/ABSave)：ABSave是一款速度极快的二进制序列化器。
+* [Serialization](https://github.com/EasyMicroservices/Serialization)：任何Serialize包的包装器。
+* [Xfrogcn.BinaryFormatter](https://github.com/xfrogcn/Xfrogcn.BinaryFormatter)：Xfrogcn BinaryFormatter是.NET中高性能的二进制序列化库。
+* [UniversalSerializer](https://github.com/ChrisBertrandDotNet/UniversalSerializer)：UniversalSerializer是一个适用于Windows、Linux、macOS、Android和iOS平台的.NET/.NET Core/.NET Standard/UWP/Mono/Xamarin/Silverlight数据序列化库。
+* [IL Boss](https://github.com/conwid/IL-boss)：基于中间语言的.NET序列化器模块。
+* [PickleJar](https://github.com/Strilanc/PickleJar)：PickleJar是一个用于描述简单二进制格式的库，并使用该描述来解析和打包值。
+* [PhpSerializerNET](https://github.com/StringEpsilon/PhpSerializerNET)：一个用于处理PHP序列化格式的.NET库。
+* [QuickBin](https://github.com/abledbody/QuickBin)：一个用于快速轻松地将数据序列化为二进制文件和从二进制文件反序列化的C#/Unity工具。
+* [Protocol Buffers .NET Data](https://github.com/dotarj/protobuf-net-data)：用于将ADO.NET DataTables和DataReader序列化为可移植二进制格式的库。
+* [HEAL.Attic](https://github.com/heal-research/HEAL.Attic)：HEAL.Attic是一个用于.NET的序列化和持久化框架。
+* [BitSerializer](https://github.com/DennisCorvers/BitSerializer)：提供二进制格式序列化的比特流。
+* [Intel Hex Parser](https://github.com/coshx/intel-hex-parser)：C#中的Intel Hex序列化器。
 
 ## JSON
 
@@ -5943,6 +5965,8 @@ permalink: /csharp
 * [MicroJson](https://github.com/mganss/MicroJson)：MicroJson是一个小型库，用于从强类型CLR对象(POCO)序列化/反序列化JSON字符串。
 * [SpracheJson](https://github.com/IanWold/SpracheJson)：SpracheJson是一个用C#编写的JSON解析器。
 * [LiteJson](https://github.com/RevenantX/LiteJson)：基于MiniJSON的小型JSON解析库。
+* [DeJson.NET](https://github.com/greggman/DeJson.NET)：一个基于MiniJSON的简单JSON到C#类序列化库。
+* [JSON Serializer](https://github.com/agocke/json-serializer)：基于Roslyn未来源代码生成器的JSON序列化器库原型。
 
 ## JSON库
 
@@ -6530,6 +6554,8 @@ permalink: /csharp
 * [Serialization.Plists](https://github.com/ChadBurggraf/plists-cs)：Serialization.Plists是一个用于.NET的二进制Plist读取器/写入器实现。
 * [XMLDiff](https://github.com/lovettchris/xmldiff)：一个用于比较两个XML文档的C#库。
 * [NetBike.Xml](https://github.com/netbike/netbike.xml)：快速、灵活且高度可定制的XML序列化器，用于在.NET对象和XML之间进行转换。
+* [CerealBox](https://github.com/JonCanning/CerealBox)：动态XML/JSON序列化和XML/JSON动态解析器。
+* [GDSerializer](https://github.com/Carnagion/GDSerializer)：GDSerializer是一个XML序列化库，其开发时充分考虑了Godot的C# API。
 
 ## YAML
 
@@ -7050,6 +7076,8 @@ permalink: /csharp
 * [ApiResponse](https://github.com/threenine/ApiResponse)：一个简单优雅的库，用于处理从Mediator处理程序返回的响应，并将响应返回给实现操作结果模式的REST API处理程序。
 * [AspNetCore.ResponseWrapper](https://github.com/huiyuanai709/AspNetCore.ResponseWrapper)：AspNetCore.ResponseWrapper是一个HTTP API响应包装器，它支持各种Action返回类型、模型无效包装器、Swagger响应显示，并且还支持自定义响应包装器。
 * [Cuture.AspNetCore.ResponseAutoWrapper](https://github.com/stratosblue/Cuture.AspNetCore.ResponseAutoWrapper)：用于ASP.NET Core的响应和异常自动包装器。
+* [RESTApiResponseWrapper.Net](https://github.com/proudmonkey/RESTApiResponseWrapper.Net)：这是一个用完整的.NET Framework编写的Web API的REST全局异常处理程序和响应包装器。
+* [WebApiProblem](https://github.com/codeite/WebApiProblem)：一个用于在MVC WebApi中将异常转换为良好REST响应的小型框架。
 
 ## 幂等
 
@@ -11921,6 +11949,7 @@ permalink: /csharp
 * [DotNet.Util.Zpl](https://github.com/cuiwenyuan/DotNet.Util.Zpl)：DotNet.Util.Zpl是一套.NET Standard 2.0库，用于轻松设计标签和生成ZPL数据，它支持4种方式将标签打印到Zebra打印机。
 * [Zepra Barcode Print](https://github.com/emrecavunt/zeprabarcodeprint)：使用WPF打印Zepra条形码。
 * [Library PDF Printer](https://github.com/PockyBum522/library-pdf-printer)：一种无需安装Adobe Reader即可在Windows系统上轻松打印PDF文件的方法。
+* [ZPLForge](https://github.com/chrishanzlik/ZPLForge)：ZPLForge库专为那些不想直接操作ZPL II或花费数小时阅读文档的用户而设计。
 
 ## 生物信息学
 
@@ -14405,7 +14434,6 @@ permalink: /csharp
 * [Orc.Sort](https://github.com/WildGums/Orc.Sort)：这个库包含各种排序算法。
 * [TopologicalSorting](https://github.com/martindevans/TopologicalSorting)：C#/.NET的拓扑排序系统。
 * [Mapperator](https://github.com/mappingtools/Mapperator)：Mapperator是一个用于高效谱面模式搜索的库，基于节奏和距离等特征。
-* [HeuristicLib](https://github.com/heal-research/HeuristicLib)：HeuristicLib是一个用于构建、运行和研究启发式优化算法的.NET库。
 * [Diffs](https://github.com/spkl/Diffs)：灵活的.NET实现的Eugene Myers diff算法。
 * [EllipseDetectorLib](https://github.com/glani/EllipseDetectorLib)：基于快速椭圆检测器算法的.NET椭圆检测库。
 * [SpiroNet](https://github.com/wieslawsoltes/SpiroNet)：Libspiro的.NET C#移植版。
