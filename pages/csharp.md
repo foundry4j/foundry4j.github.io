@@ -1012,6 +1012,7 @@ permalink: /csharp
 * [DynamicProxy](https://github.com/curit/DynamicProxy)：简单、透明、易于理解，使用DLR和ImpromptuInterface的对象代理。
 * [AutoInterface](https://github.com/beakona/AutoInterface)：C#源代码生成器，它会将所有接口调用重定向到一个或多个后端成员。
 * [WcfClientProxyGenerator](https://github.com/jweber/WcfClientProxyGenerator)：基于WCF服务接口，为WCF服务生成容错和可重试的动态代理的实用程序。
+* [Flatwhite](https://github.com/vantheshark/Flatwhite)：Flatwhite是一个基于AOP的库，它采用MVC和WebAPI ActionFilter风格，并使用Castle动态代理。
 
 ## API网关
 
@@ -2827,6 +2828,7 @@ permalink: /csharp
 * [LightMock](https://github.com/seesharper/LightMock)：LightMock是一个简单的Mock库，可以在不允许动态代码生成的平台上使用。
 * [MockMe](https://github.com/connorivy/MockMe)：MockMe是一个用来在你的单元测试项目中Mock依赖的库。
 * [Mockolate](https://github.com/Testably/Mockolate)：Mockolate是一个现代化、强类型、兼容AOT的.NET Mock库，由源代码生成器驱动。
+* [DivertR](https://github.com/devodo/DivertR)：DivertR是一个通用的.NET代理框架，可用于创建测试替身。
 
 ## Mock库
 
@@ -3308,6 +3310,9 @@ permalink: /csharp
 * [RinkuLib](https://github.com/RinkuLib/RinkuLib)：Rinku是一个基于ADO.NET构建的小型.NET微型ORM。
 * [EntityJustworks](https://github.com/AdamWhiteHat/EntityJustworks)：一个紧凑而强大的数据优先或代码优先ORM。
 * [Kerosene.ORM](https://github.com/mbarbac/Kerosene.ORM)：一个动态、无需配置、自适应的ORM。
+* [NDolls](https://github.com/zxcayumi/NDolls)：NDolls对ADO.NET进行了轻量级的对象封装。
+* [Gravity](https://github.com/relativitydev/Gravity)：Gravity是一个用于Relativity自定义开发的ORM框架。
+* [Mego](https://github.com/CarefreeXT/Mego)：一个高性能、功能强大的ORM框架，支持SQL Server、MySQL、PostgreSQL、Sqlite、SqlCE、Firebird等。
 
 ## 持久层库
 
@@ -7677,6 +7682,7 @@ permalink: /csharp
 * [iPlus](https://github.com/iplus-framework/iPlus)：iPlus是一个开源的工业软件平台，它将传统编程与低代码环境相结合。
 * [Facility](https://github.com/FacilityApi/Facility)：用于与Facility API框架配合使用的工具和库。
 * [Ultra](https://github.com/egarim/Ultra)：Ultra是一套开源模块，用于扩展.NET应用程序框架DevExpress XAF的功能。
+* [Iron Framework](https://github.com/megadotnet/ironframework)：领域驱动设计(DDD)、分层架构、面向切面编程(AOP)快速开发基础设施。
 
 ## 权限管理系统
 
