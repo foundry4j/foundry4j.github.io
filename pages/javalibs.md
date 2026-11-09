@@ -1695,6 +1695,12 @@ permalink: /javalibs
 * [Leisure RPC Spring Boot Starter](https://github.com/oneisx/leisure-rpc-spring-boot-starter)：Leisure RPC是基于Spring Boot Starter的小型RPC框架。
 * [TCP REST](https://github.com/liweinan/tcprest)：一个轻量级、零依赖的RPC框架，可将POJO转换为可通过TCP进行网络访问的服务。
 * [Bboss RPC](https://github.com/bbossgroups/bboss-rpc)：Bboss RPC项目，支持丰富的协议栈。
+* [QiuRPC](https://github.com/i1see1you/QiuRPC)：QiuRPC是一个通用的网络RPC框架。
+* [JRPClightning](https://github.com/clightning4j/JRPClightning)：用于C-Lightning的Java框架，可与RPC接口配合使用。
+* [qRPC](https://github.com/BarackYoung/qRPC)：qRPC是一个基于TCP协议、Protobuf序列化和代码生成、跨语言的高效率轻量级RPC框架。
+* [rRPC](https://github.com/timemates/rrpc-kotlin)：rRPC是一个框架，旨在提供将你的API作为RPC服务公开的功能。
+* [YuRPC](https://github.com/xincao9/yurpc)：YuRPC是基于Java的高性能开源RPC框架。
+* [Catty](https://github.com/catty-project/catty)：高性能RPC框架。
 
 ### WebService框架
 
@@ -3190,6 +3196,7 @@ permalink: /javalibs
 * [ZkClient](https://github.com/xiajunsongfan/zkclient)：Zookeeper Java客户端的封装，实现了分布式锁。
 * [Cluster Lock Spring Boot Starter](https://github.com/caojingui/cluster-lock-spring-boot-starter)：基于Redis实现的简单分布式锁。
 * [Redlock Clj](https://github.com/lantiga/redlock-clj)：Redlock是Clojure中基于Redis的分布式锁实现。
+* [Acticfox Distributed Tools](https://github.com/acticfox/acticfox-distributed-tools)：分布式锁、幂等、缓存等接口定义。
 
 #### Session集群
 
@@ -4459,6 +4466,7 @@ permalink: /javalibs
 * [Tracy](https://github.com/JetBrains/tracy)：Tracy可以帮助你直接从Kotlin或Java项目中跟踪、监控和评估AI驱动的功能，由JetBrains开源。
 * [LangSmith Java SDK](https://github.com/langchain-ai/langsmith-java)：LangSmith是一个与框架无关的平台，用于构建、调试和部署AI代理和LLM应用程序。
 * [Apache Marvin](https://github.com/apache/incubator-marvin)：Marvin是一个开源人工智能平台，致力于帮助数据科学家为复杂问题提供有效的解决方案。
+* [Embabel Workflow Visualizer](https://github.com/patbaumgartner/embabel-workflow-visualizer)：一个Spring Boot Starter，可为Embabel代理添加实时工作流可视化UI和REST API，无需编写任何代码。
 
 ### AI Assistant
 
@@ -5326,6 +5334,7 @@ permalink: /javalibs
 * [Spark ML Serving](https://github.com/Hydrospheredata/spark-ml-serving)：Spark ML的无上下文机器学习实现。
 * [Lightning Server](https://github.com/lightningkite/lightning-server)：一个能够大幅提升服务器开发速度的项目，堪比Python版的Django。
 * [Tensorflow Deploy](https://github.com/handong0123/tensorflow_deploy)：简化与优化Tensorflow模型的Java部署。
+* [Polyaxon SDKs](https://github.com/polyaxon/sdks)：Polyaxon是一个用于构建、训练和监控大规模深度学习应用的平台。
 
 ### 因果推理
 
@@ -5470,6 +5479,7 @@ permalink: /javalibs
 * [JavaANPR](https://github.com/oskopek/javaanpr)：JavaANPR是一款自动车牌识别软件，它运用了人工智能、机器视觉和神经网络领域的算法和数学原理。
 * [Image Forensics](https://github.com/MKLab-ITI/image-forensics)：这是一个用于图像取证分析的集成框架。
 * [VisRec API](https://github.com/JavaVisRec/visrec-api)：Java视觉识别规范API。
+* [Leap Motion Processing](https://github.com/heuermh/leap-motion-processing)：适用于Processing的Leap Motion库。
 * [OpenCV](https://github.com/PatternConsulting/opencv)：OpenCV Java绑定，与本地库打包在一起。
 * [JFeatureLib](https://github.com/locked-fg/JFeatureLib)：JFeatureLib是一个免费库，提供了几种图像特征的实现，以及主要用于计算机视觉研究领域的几种点/区域检测器。
 * [YUV2Mat](https://github.com/QuickBirdEng/yuvToMat)：用于将YUV_420_888 Android相机图像转换为OpenCV RGB材质的高性能库。
@@ -8405,6 +8415,8 @@ permalink: /javalibs
 * [Codeless](https://github.com/tmobile/codeless)：ETP Codeless是由T-Mobile创建的一个独立的Java项目，允许你使用基本的YAML和电子表格文件快速编写测试，而无需深入了解Java自动化测试的编写。
 * [PnxTest](https://github.com/pengtech/pnxtest)：PnxTest是一个基于Java的自动化测试框架。
 * [Automotion Java](https://github.com/ITArray/automotion-java)：Automotion是一个用于响应式UI验证和Web/移动端测试自动化的Java框架。
+* [Idaithalam](https://github.com/virtualansoftware/idaithalam)：Idaithalam是一个用于API、数据库和Kafka/事件消息测试的低代码/无代码自动化框架。
+* [Etiqet](https://github.com/blu-corner/etiqet)：Etiqet是一个测试自动化框架，旨在简化消息传递应用程序的测试，尤其针对FIX应用程序。
 
 #### 自动化工具
 
@@ -9631,6 +9643,7 @@ permalink: /javalibs
 * [SPAN](https://github.com/americanexpress/SPAN)：SPAN是一个Java框架，它可以帮助开发人员通过提供配置和POJO详细信息来连接存储过程，由美国运通开源。
 * [SProcWrapper](https://github.com/zalando-stups/java-sproc-wrapper)：Java存储过程包装器，从Java调用PostgreSQL存储过程。
 * [Stored Procedure Proxy](https://github.com/marschall/stored-procedure-proxy)：一种更方便、更安全的从Java调用存储过程的方法。
+* [JDBC Proc](https://github.com/payneteasy/jdbc-proc)：JDBC Proc提供从POJO到存储过程的映射。
 
 #### N+1检测
 
@@ -10216,6 +10229,7 @@ permalink: /javalibs
 * [Spring Tx Message](https://github.com/bty834/spring-tx-message)：基于本地消息表的事务消息发送框架。
 * [LibEvent](https://github.com/OuYangLiang/libevent)：LibEvent是一个事件驱动框架，旨在解决业务数据库与消息队列之间数据强一致性问题。
 * [OnceBox](https://github.com/dmitriy-iliyov/oncebox)：该库提供了基于轮询关系数据库事件并将其发布到消息代理的事务性发件箱模式的实现。
+* [Spring Boot Outbox Starter](https://github.com/KHolodilin/spring-boot-outbox-starter)：适用于Java 21的事务型Outbox，支持多通道管道、PostgreSQL作为数据源，以及内存或Redis唤醒队列。
 
 #### MQ事务
 
@@ -11342,6 +11356,7 @@ permalink: /javalibs
 * [API Wrap](https://gitee.com/slacrey/api-wrap)：API签名验证工具，简单易用。
 * [Aegis](https://github.com/EricTao2/aegis)：Aegis是一个基于Java 8、Spring Boot创建的HTTP请求拦截和验证框架。
 * [AWS Request Signing Interceptor](https://github.com/acm19/aws-request-signing-apache-interceptor)：一款用于拦截任意HTTP请求的AWS请求签名拦截器。
+* [HTTP Message Signing](https://github.com/mbarbero/http-messages-signing)：HTTP Message Signing是IETF HTTP消息签名草案的Java实现。
 
 #### 字段加密
 
@@ -12043,6 +12058,7 @@ permalink: /javalibs
 * [Smilonet Common](https://github.com/cn-percy-wang/smilonet-common)：Java公用框架工具。
 * [Slyak Commons](https://github.com/slyak/slyak-commons)：Slyak Commons微服务。
 * [YAPI](https://github.com/yoyosource/YAPI)：Java中一些实用方法的集合。
+* [XQBase Util](https://github.com/xqbase/util)：XQBase Util提供简单易用的代码。
 
 ## 集合库
 
@@ -12298,6 +12314,7 @@ permalink: /javalibs
 * [Log Malloc Simple](https://github.com/qgears/log-malloc-simple)：Log Malloc Simple是一个可预加载的库，用于跟踪程序的所有内存分配情况。
 * [JME Alloc](https://github.com/Electrostat-Lab/jme-alloc)：适用于jMonkeyEngine、Lwjgl和安卓游戏的直接动态内存分配API。
 * [Mem Eater Bug](https://github.com/Zabuzard/Mem-Eater-Bug)：Mem Eater Bug提供使用JNA进行内存操作和注入的各种方法。
+* [JMemStore](https://github.com/aragozin/JMemStore)：用于将二进制数据存储在JVM堆之外的高级存储API。
 
 ## Unsafe
 
@@ -12501,6 +12518,9 @@ permalink: /javalibs
 * [Kaval](https://github.com/MonkeyPatchIo/kaval)：Kaval这是一个用于验证模型的Kotlin多平台库。
 * [Demoiselle Velidation](https://github.com/demoiselle/validation)：Demoiselle Velidation是包含多种验证器实现的组件。
 * [ActiveAndroid Validation](https://github.com/vsigler/ActiveAndroid-Validation)：ActiveAndroid的一个扩展，为模型添加了校验功能，并保持了ActiveAndroid库简单易用的特性。
+* [ValidationFramework](https://github.com/padrig64/ValidationFramework)：ValidationFramework是一个简单而灵活的框架，其主要设计用于验证用户输入并提供相应的反馈。
+* [Unified Validation Library](https://github.com/jto/validation)：Unified Validation Library旨在提供一个全面的工具包，用于根据用户定义的规则验证任何格式的数据，并将其转换为其他类型。
+* [Validation.FO](https://github.com/pole-moment/Validation.FO)：Java开发校验框架。
 
 ## Bean映射&复制
 
@@ -12947,6 +12967,7 @@ permalink: /javalibs
 * [Kernl](https://github.com/mattshoe/kernl)：Kernl是一个Kotlin库，旨在简化大多数数据管理场景。
 * [Cache](https://github.com/toss/cache)：Kotlin/JVM缓存库。
 * [FileCacher](https://github.com/kosalgeek/FileCacher)：FileCacher是一个简单的库，用于缓存对象并将其存储在内部存储的文件中。
+* [Whirlycache](https://github.com/whirlycott/Whirlycache)：超高速Java对象缓存。
 
 #### 分布式缓存
 
@@ -14243,6 +14264,7 @@ permalink: /javalibs
 * [Confijulate](https://github.com/icmconsulting/confijulate)：简单的Clojure应用程序配置库。
 * [YamlConfig](https://github.com/jsixface/YamlConfig)：YamlConfig帮助从YAML配置文件中读取Java项目的配置，并通过点号表示法访问它们。
 * [ConfigJ](https://github.com/henry-anderson/configJ)：ConfigJ是一个用于轻松读取数据序列化的Java库。
+* [Configuration](https://github.com/Toma1O6/Configuration)：一款基于注解的简单配置管理器，支持多种文件格式。
 
 #### 分布式配置
 
@@ -16086,6 +16108,7 @@ permalink: /javalibs
 * [SmileyVars](https://github.com/mgrand/smileyVars)：SmileyVars是一个轻量级、基于Java的SQL模板引擎。
 * [Cuma](https://github.com/liquidz/cuma)：Clojure的可扩展微模板引擎。
 * [WaSP](https://github.com/eclipse-ee4j/wasp)：Eclipse WaSP实现了Jakarta Pages技术。
+* [Site Builder](https://github.com/JonathanGiles/sitebuilder)：Site Builder是一个简单的静态网站生成器/模板引擎。
 
 ## 字符串格式化
 
@@ -16502,6 +16525,7 @@ permalink: /javalibs
 * [Throttle](https://github.com/lwjaiyjk/Throttle)：API限流幂等框架。
 * [Idempotent](https://github.com/0yuyuko0/idempotent)：Redis实现幂等性。
 * [Spring Cloud Idempotent](https://github.com/amu007/springcloud-idempotent-starter)：Spring Boot的幂等性解决方案。
+* [Spring Boot Idempotency Starter](https://github.com/KHolodilin/spring-boot-idempotency-starter)：为Spring Boot提供事务幂等性，并配备简洁流式的API。
 
 ## 命令行开发
 
@@ -17582,6 +17606,7 @@ permalink: /javalibs
 * [JVamp](https://github.com/vamp-plugins/jvamp)：Vamp音频分析插件的Java宿主接口。
 * [jReality](https://github.com/sechel/jreality)：jReality是一个用于实时交互式3D图形和音频的Java库。
 * [QwickSound](https://github.com/cmholton/QwickSound)：QwickSound是一个Java音频/声音库，它提供了一个易于使用的API，可以快速播放WAV、AIFF、AU、MP3、Ogg和AAC音频文件。
+* [Audioplayer4j](https://github.com/hendriks73/audioplayer4j)：Java音频播放器API。
 
 #### 视频库
 
@@ -17818,6 +17843,7 @@ permalink: /javalibs
 * [KFlate](https://github.com/rafambn/KFlate)：纯Kotlin多平台DEFLATE、GZIP和ZLIB压缩。
 * [JsonCompress](https://github.com/dogriffiths/jsoncompress)：用于压缩小型JSON数据的库。
 * [Zstd FFM](https://github.com/dfa1/zstd-ffm)：Zstd FFM是一个基于FFM的优秀Zstd JNI的替代方案。
+* [ZLib Tiny](https://github.com/source-c/zlib-tiny)：一个Clojure库，旨在满足打包/解包交换消息、可存储数据块等基本需求，并检查它们的一致性。
 
 #### 文件压缩
 
@@ -19626,6 +19652,7 @@ Kafka库、管理系统、运维平台。
 * [Metrics](https://github.com/redstarssystems/metrics)：用于执行应用程序监控的指标库。
 * [Metrics Java](https://github.com/ExpediaDotCom/metrics-java)：用于在JVM语言中使用Metrics 2.0的实用库，由Expedia开源。
 * [Lambda Monitoring](https://github.com/symphoniacloud/lambda-monitoring)：一套用于Java/JVM AWS Lambda的日志记录和指标库。
+* [XQBase Metric](https://github.com/xqbase/metric)：一个轻量级的指标框架，用于聚合、收集和显示指标数据。
 
 #### 指标报告
 
@@ -21434,7 +21461,7 @@ Kafka库、管理系统、运维平台。
 * [Tiny](https://gitee.com/tinyframework/tiny)：企业级Java EE应用开发框架套件。
 * [Kiit](https://github.com/kiitdev/kiit)：Kiit是一个Kotlin框架，旨在提供一套简洁、轻量级、模块化的库和工具集，用于构建应用程序、API、CLI、作业和移动应用。
 * [IGRP](https://github.com/NOSiCode-CV/IGRP-Framework)：IGRP是由美国NOSi开发的平台，用于创建Web应用程序，基于业务步骤、流程、自动代码生成和一次性原则的合并。
-* [CXBOX](https://github.com/CX-Box/cxbox)：CXBOX的主要目标是加速基于Spring Boot的典型企业级应用程序的开发。
+* [CXBOX](https://cxbox.org/)：CXBOX的主要目标是加速基于Spring Boot的典型企业级应用程序的开发。
 * [AppNG](https://github.com/appNG/appng)：AppNG是一个基于Apache Tomcat和Spring框架的Web应用程序平台和Web应用程序框架。
 * [Qcadoo](https://github.com/qcadoo/qcadoo)：Qcadoo是Qcadoo MES的核心框架。
 * [NutzWk](https://github.com/Wizzercn/NutzWk)：NutzWk开源企业级Java Web开发框架。
@@ -22287,6 +22314,7 @@ Kafka库、管理系统、运维平台。
 * [Valley](https://github.com/sherifabdlnaby/Valley-eCommerce-prototype)：这是一个采用分层架构和MVC模式的电子商务网站原型。
 * [Flexi Store](https://github.com/KhubaibKhan4/Flexi-Store-Server)：Flexi Store是一款服务器端应用程序，旨在支持电子商务功能。
 * [eCommerce Application](https://github.com/ionutbalosin/ecommerce-app)：eCommerce Application是一个平台，客户可以在此查找产品、使用购物车浏览商品、结账并完成支付。
+* [ShopFlow](https://github.com/hoangtuan2k5/shopflow)：适用于小型网店的销售和库存管理系统。
 * [Micro ECommerce](https://github.com/idugalic/micro-ecommerce)：基于RESTful架构的分布式电子商务应用。
 * [微同商城](https://gitee.com/fuyang_lipengjun/platform)：减少重复造轮子，开源微信小程序商城。
 * [智汇商城](https://gitee.com/catshen/zhsc)：智汇商城是一款持续更新得轻量级、高性能、前后端分离的电商系统。
@@ -28621,6 +28649,7 @@ Kafka库、管理系统、运维平台。
 * [Java ZSet](https://github.com/hl845740757/java-zset)：Redis ZSet的Java实现。
 * [Topper](https://github.com/Topper-MC/Topper)：用于处理单值数据表的框架。
 * [ATerm](https://github.com/cwi-swat/aterms)：ATerm库是一个极其高效的库，用于最大程度地共享术语，具有快速序列化格式和垃圾回收器，由荷兰国家数学与计算机科学研究中心开发。
+* [PDS4j](https://github.com/aragozin/pds4j)：Java实用数据结构。
 
 #### 树
 
@@ -29138,6 +29167,7 @@ Kafka库、管理系统、运维平台。
 * [Kython](https://github.com/sailor-green/Kython)：Kython是一个用Kotlin/JVM编写的Python 3解释器。
 * [JPyxie](https://github.com/maksymuimanov/jpyxie)：JPyxie是一个库，它允许从使用Spring Boot构建的Java应用程序安全且可扩展地执行Python脚本。
 * [Polyglot Platform](https://github.com/ih0r-d/polyglot-platform)：Polyglot Platform是一个通过GraalVM Polyglot为Java应用提供Python和JavaScript类型化访问的框架。
+* [Pyronaut](https://github.com/micronaut-projects/pyronaut)：Pyronaut是一个高性能Python应用平台，用于构建基于GraalVM和Micronaut的生产就绪服务，由Oracle开源。
 
 #### Swift
 

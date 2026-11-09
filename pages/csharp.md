@@ -790,6 +790,7 @@ permalink: /csharp
 * [RPCForSMBLibrary](https://github.com/vletoux/RPCForSMBLibrary)：用于RPC调用的SMBLibrary扩展。
 * [DubboNet](https://github.com/apache/dubbo-net)：DubboNet是一个用于.NET的Dubbo客户端库。
 * [ZeroRPC.NET](https://github.com/ghorsington/zerorpc-dotnet)：ZeroRPC.NET是ZeroRPC的100% CIL实现。
+* [SimpleRpc](https://github.com/netcore-jroger/SimpleRpc)：一个轻量级的Google gRPC框架的RPC封装。
 
 ## WebService框架
 
@@ -13333,6 +13334,7 @@ permalink: /csharp
 * [NetFabric.Angle](https://github.com/NetFabric/NetFabric.Angle)：支持旋转、弧度、角度和梯度的不可变双精度角度。
 * [Metric.NET](https://github.com/milutinovici/metric)：Metric.NET是一个用C#编写的库，旨在帮助开发人员处理计量单位。
 * [PrettySize](https://github.com/neosmart/PrettySize.net)：PrettySize是一个用于处理和格式化文件大小的.NET库。
+* [CaliperSharp](https://github.com/point85/CaliperSharp)：CaliperSharp C#库项目用于管理计量单位及其之间的转换。
 
 ## JavaScript引擎
 

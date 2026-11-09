@@ -15,9 +15,9 @@ keywords: Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,开发者,编程,�
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: tuyucheng777/tuyucheng777.github.io
-github_url: https://github.com/tuyucheng777
-url: http://tuyucheng777.github.io
+repository: foundry4j/foundry4j.github.io
+github_url: https://github.com/foundry4j
+url: http://foundry4j.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
@@ -453,17 +453,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: tuyucheng777
+    username: foundry4j
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: tuyucheng777
+    owner: foundry4j
     repo: blog-comments
     oauth:
         client_id: Ov23liw56wGHUmHcX255
         client_secret: c7369596433da9501e12f5afdccc2530ca57fa41
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: tuyucheng777
+    owner: foundry4j
     repo: blog-comments
     clientID: Ov23liw56wGHUmHcX255
     clientSecret: c7369596433da9501e12f5afdccc2530ca57fa41

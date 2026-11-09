@@ -174,7 +174,7 @@ public class AltsOtBookingClient {
 让我们登录两台服务器，然后克隆托管演示gRPC服务源代码的GitHub仓库：
 
 ```shell
-git clone https://github.com/tuyucheng777/taketoday-tutorial4j.git
+git clone https://github.com/foundry4j/taketoday-tutorial4j.git
 ```
 
 克隆后，我们将编译taketoday-tutorial4j/grpc目录中的代码：

@@ -123,7 +123,7 @@ val scn = scenario("RewardsScenario")
     ).protocols(httpProtocol)
 ```
 
-**[整个Scala脚本](https://github.com/tuyucheng777/taketoday-tutorial4j/tree/master/software.test/load-testing-comparison/src/main/resources/scripts)可以在我们的Github仓库中查看**。
+**[整个Scala脚本](https://github.com/foundry4j/taketoday-tutorial4j/tree/master/software.test/load-testing-comparison/src/main/resources/scripts)可以在我们的Github仓库中查看**。
 
 ### 3.4 JMeter
 
@@ -142,7 +142,7 @@ val scn = scenario("RewardsScenario")
 <stringProp name="ThreadGroup.num_threads">100</stringProp>
 ```
 
-[查看整个jmx文件作为参考](https://github.com/tuyucheng777/taketoday-tutorial4j/tree/master/software.test/load-testing-comparison/src/main/resources/scripts)。虽然可能，但使用功能齐全的GUI将测试以XML格式编写为.jmx文件是没有意义的。
+[查看整个jmx文件作为参考](https://github.com/foundry4j/taketoday-tutorial4j/tree/master/software.test/load-testing-comparison/src/main/resources/scripts)。虽然可能，但使用功能齐全的GUI将测试以XML格式编写为.jmx文件是没有意义的。
 
 ### 3.5 The Grinder
 
@@ -165,7 +165,7 @@ grinder.processes = 1
 grinder.runs = 1000
 ```
 
-**我们的The Grinder的完整Jython脚本将[如此所示](https://github.com/tuyucheng777/taketoday-tutorial4j/tree/master/software.test/load-testing-comparison/src/main/resources/scripts)**。
+**我们的The Grinder的完整Jython脚本将[如此所示](https://github.com/foundry4j/taketoday-tutorial4j/tree/master/software.test/load-testing-comparison/src/main/resources/scripts)**。
 
 ## 4. 测试运行
 
