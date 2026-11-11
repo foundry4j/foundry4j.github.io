@@ -387,6 +387,11 @@ permalink: /csharp
 * [WinUI](#WinUI)
 * [浏览器](#浏览器)
 * [Blazor](#Blazor)
+* [Blazor UI库](#Blazor-UI库)
+* [Blazor组件库](#Blazor组件库)
+* [Blazor图表库](#Blazor图表库)
+* [Blazor状态管理](#Blazor状态管理)
+* [Blazor地图库](#Blazor地图库)
 * [IDE](#IDE)
 * [文本编辑器](#文本编辑器)
 * [MVVM框架](#MVVM框架)
@@ -1641,6 +1646,7 @@ permalink: /csharp
 * [Eve.NET](https://github.com/pyeve/Eve.NET)：Eve.NET是一个基于Eve框架的简单HTTP和REST Web服务客户端。
 * [HTTP BuildR](https://github.com/bmazzarol/Http-BuildR)：仅使用核心System.Net.Http构建请求和响应的简单C#函数。
 * [Nap](https://github.com/jrwdexter/Nap)：Nap是一个简洁易用的REST客户端，其设计目的是为了尽可能简化REST请求。
+* [HttpLib](https://github.com/Eviav/HttpLib)：便捷的Http库、多线程下载库。
 
 ## Socket
 
@@ -1691,6 +1697,9 @@ permalink: /csharp
 * [SockRock](https://github.com/kenkendk/SockRock)：SockRock是一个封装库，用于在C#中使用epoll和kqueue，而无需依赖本地库。
 * [FireLite](https://github.com/tomglenn/FireLite)：FireLite是一个极其轻量级的TCP套接字服务器/客户端库。
 * [SockNet](https://github.com/arenanet/socknet)：一个功能强大而又简单的异步网络应用程序框架，用于实现低延迟和高性能的服务器和客户端应用程序。
+* [ZYNet](https://github.com/luyikk/ZYNet)：ZYNET是一个跨平台的协程网络框架。
+* [No Garbage Sockets](https://github.com/forestrf/No-gc-sockets)：一个用于通过套接字发送和接收数据而不分配垃圾内存的小型库。
+* [SimpleUwpTwoWayComms](https://github.com/mtaulty/SimpleUwpTwoWayComms)：一个简单的基于双向TCP套接字的库，用于UWP设备间通信。
 
 ## WebSocket
 
@@ -4773,6 +4782,7 @@ permalink: /csharp
 * [Corvus.Extensions](https://github.com/corvus-dotnet/Corvus.Extensions)：实用的C#扩展方法和工具。
 * [WebAppUK CoreLibraries](https://github.com/webappsuk/CoreLibraries)：该库包含Web Applications UK十多年来精心打造的大量实用工具，旨在简化企业级.NET解决方案的构建和部署。
 * [NExtra](https://github.com/danielsaidi/nextra)：NExtra是一个开源库，包含.NET Framework的扩展功能。
+* [DotCommon](https://github.com/cocosip/DotCommon)：DotCommon是一个面向.NET的通用基础类库。
 
 ## 日期时间
 
@@ -8948,6 +8958,79 @@ permalink: /csharp
 ## Blazor
 
 * [Blazor Starter Kit](https://github.com/fullstackhero/blazor-starter-kit)：用MudBlazor组件构建的Blazor WebAssembly 6.0开源解决方案模板。
+* [TabBlazor](https://github.com/TabBlazor/TabBlazor)：基于Tabler构建的Blazor管理后台模板。
+* [Photino.Blazor](https://github.com/tryphotino/photino.Blazor)：Photino是一个轻量级的开源框架，用于使用Web UI技术构建原生、跨平台的桌面应用程序。
+* [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator)：Blazor.EventAggregator是一个轻量级的Blazor事件聚合器。
+* [Toast](https://github.com/Blazored/Toast)：这是一个用于Blazor和Razor组件应用的无JavaScript Toast实现。
+* [Ignis](https://github.com/DavidVollmers/Ignis)：Blazor框架，用于构建现代Web应用程序。
+* [BlazorTemplater](https://github.com/conficient/BlazorTemplater)：一个从Razor组件生成HTML的库。
+* [BUnit](https://github.com/bUnit-dev/bUnit)：BUnit是Blazor组件的一个测试库。
+* [BlazorWorker](https://github.com/Tewr/BlazorWorker)：用于在客户端Blazor中创建DotNet Web Worker线程/多线程的库。
+* [BlazorFileReader](https://github.com/Tewr/BlazorFileReader)：用于在Blazor中从文件输入元素或拖放目标创建只读文件流的库。
+* [BlazorWasmPreRendering.Build](https://github.com/jsakamoto/BlazorWasmPreRendering.Build)：发布Blazor WebAssembly应用时，此包会将应用预渲染并以静态HTML文件的形式保存到你的公共文件夹中。
+* [BrowserInterop](https://github.com/RemiBou/BrowserInterop)：该库提供在Blazor应用中访问浏览器API的功能。
+* [Blazor.WebAudio](https://github.com/KristofferStrube/Blazor.WebAudio)：用于Web Audio浏览器API的Blazor封装。
+* [BlazorMobile](https://github.com/Daddoon/BlazorMobile)：BlazorMobile是一套用于将Blazor网页应用嵌入为独立移动应用的Nuget包和项目模板。
+* [Razor.SweetAlert2](https://github.com/Basaingeal/Razor.SweetAlert2)：一个美观、响应式、可定制、符合WAI-ARIA标准的JavaScript弹出框替代方案。
+* [Toolbelt.Blazor.I18nText](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText)：该类库提供在你的Blazor应用中本地化文本的能力。
+* [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation)：此软件包为Blazor应用程序提供对浏览器地理位置API的访问权限。
+* [Blazor Extensions](https://github.com/BlazorExtensions/Storage)：Blazor Extensions是一组旨在为Blazor添加有用功能的软件包。
+* [RazorConsole](https://github.com/RazorConsole/RazorConsole)：RazorConsole架起了现代Web用户界面开发与控制台应用程序之间的桥梁。
+* [Htmxor](https://github.com/egil/Htmxor)：该软件包使Blazor Static SSR能够与Htmx无缝配合使用。
+* [Blazing.Mvvm](https://github.com/gragra33/Blazing.Mvvm)：Blazing.Mvvm通过与CommunityToolkit.Mvvm的无缝集成，为Blazor应用程序带来完整的MVVM支持。
+* [BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery)：BlazorQuery是一个Blazor库，它完全用C#封装了jQuery，因此可以直接在C#环境中进行DOM操作、Ajax等操作。
+* [Blazor Developer Tools](https://github.com/joe-gregory/blazor-devtools)：用于Blazor的可视化开发工具。
+* [EasyApi](https://github.com/bpawluk/EasyApi)：一种用于Blazor应用程序定义和使用Web API的新方法。
+* [Toolbelt.Blazor.HttpClientInterceptor](https://github.com/jsakamoto/Toolbelt.Blazor.HttpClientInterceptor)：在客户端Blazor WebAssembly应用程序中拦截所有发送的HTTP请求的类库。
+* [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies)：BitzArt.Blazor.Cookies是一个NuGet包，用于简化在Blazor应用程序中处理浏览器Cookies。
+* [Blazor.IndexedDB.Framework](https://github.com/Reshiru/Blazor.IndexedDB.Framework)：一种与IndexedDB交互的简便方法，让它感觉像EFCore但异步。
+* [SqliteWasmBlazor](https://github.com/b-straub/SqliteWasmBlazor)：Blazor SQLite实现，完全支持EFCore和OPFS。
+* [BlazorRouter](https://github.com/hez2010/BlazorRouter)：一个出色的用于Blazor的路由器，受React Router启发，为Blazor提供声明式路由。
+* [BlazorWasmAntivirusProtection](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection)：该软件包尝试防止杀毒软件将Blazor Wasm标记为恶意软件的误报。
+* [DotNetify Blazor](https://github.com/dsuryd/dotNetify-Blazor)：DotNetify Blazor是一个免费、开源的项目，让你可以使用Blazor WebAssembly创建实时、响应式、跨平台的应用程序。
+* [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver)：用于Blazor应用的Intersection Observer API封装。
+* [Blazouter](https://github.com/Taiizor/Blazouter)：一个功能强大的类似React Router的Blazor应用程序路由库。
+* [BlazorJsonLocalization](https://github.com/xaviersolau/BlazorJsonLocalization)：提供基于JSON的Blazor本地化支持。
+* [Piral.Blazor](https://github.com/smapiot/Piral.Blazor)：使用Piral实现Blazor在微前端无缝运行所需的所有.NET功能。
+* [Phetch](https://github.com/Jcparkyn/phetch)：Phetch是一个小型的Blazor库，用于处理异步查询状态，其风格类似于React Query、SWR或RTK Query。
+* [BionicCLI](https://github.com/BionicFramework/BionicCLI)：Ionic Framework CLI克隆，用于使用Blazor构建和部署PWA和移动应用。
+* [FormCraft](https://github.com/phmatray/FormCraft)：在Blazor中使用优雅的流式API构建类型安全的动态表单。
+* [Blazor.WebForm.Components](https://github.com/Jurioli/Blazor.WebForm.Components)：ASP.NET Web Forms System.Web.UI.WebControls Razor组件，适用于Blazor WebAssembly、Blazor Hybrid、Blazor Server。
+* [BytexDigital.Blazor.Components.CookieConsent](https://github.com/BytexDigital/BytexDigital.Blazor.Components.CookieConsent)：该库提供了一种简单的方法来处理Blazor WASM/服务器端应用程序中符合GDPR标准的Cookie同意问题。
+* [ElectronNET.Blazor](https://github.com/CloudNimble/ElectronNET.Blazor)：一个帮助Blazor和Electron.NET更好地协同工作的库。
+* [Blazor Utitlity](https://github.com/aksoftware98/blazor-utilities)：通过消息中心在你的组件之间流畅地发送数据。
+* [Localisation](https://github.com/Blazored/Localisation)：一个用于在客户端Blazor应用程序中提供本地化的库。
+* [Blazor.FileSystemAccess](https://github.com/KristofferStrube/Blazor.FileSystemAccess)：一个用于浏览器API文件系统访问的Blazor封装器。
+* [MetaMask.Blazor](https://github.com/michielpost/MetaMask.Blazor)：该库提供了一个简单的助手，用于在Blazor WebAssembly中使用MetaMask。
+* [Blazor.FileAPI](https://github.com/KristofferStrube/Blazor.FileAPI)：一个用于浏览器文件API的Blazor封装器。
+* [Razor.Clipboard](https://github.com/Basaingeal/Razor.Clipboard)：此软件包为Blazor应用程序提供对浏览器剪贴板API的访问。
+* [BlazorForms](https://github.com/ProCodersPtyLtd/BlazorForms)：现代低代码框架，简化了流程、表单和规则的创建。
+* [Blazor.FileSystem](https://github.com/KristofferStrube/Blazor.FileSystem)：文件系统浏览器API的Blazor封装。
+* [EmbeddedBlazorContent](https://github.com/SamProf/EmbeddedBlazorContent)：这个库可以帮助你在服务器端Blazor项目中启用来自BlazorLib项目的内容文件。
+* [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)：使用WebWorker和SharedWebWorker在单独的线程中调用服务。
+* [BlazorBindGen](https://github.com/sps014/BlazorBindGen)：一个用于JS的绑定生成器，在Blazor Wasm和Server中调用任何JS函数或属性，无需编写JS包装器。
+* [TextCopy](https://github.com/CopyText/TextCopy)：一个用于在剪贴板和文本之间复制文本的跨平台软件包。
+* [Siemens IX Blazor](https://github.com/siemens/ix-blazor)：用于Blazor的西门子IX库。
+* [Blazor.WebShare](https://github.com/Append-IT/Blazor.WebShare)：在C#中为Microsoft Blazor实现Web Share API。
+* [UISupportBlazor](https://github.com/Graphene-Lab/UISupportBlazor)：Blazor的AI渲染GUI和自动API。
+* [BootstrapForRazor](https://github.com/advancedrei/BootstrapForRazor)：Bootstrap的ASP.NET Razor扩展。
+* [Blazor.ServiceWorker](https://github.com/KristofferStrube/Blazor.ServiceWorker)：用于Service Worker API的Blazor封装。
+* [A2UI.Blazor](https://github.com/xuzeyu91/A2UI.Blazor)：为Blazor应用程序提供完整的.NET 9 A2UI协议实现。
+* [Blazor.BroadcastChannel](https://github.com/tpeczek/Blazor.BroadcastChannel)：这是一个基于Blazor的HTML5广播频道API实现。
+* [Blazor.Streams](https://github.com/KristofferStrube/Blazor.Streams)：一个用于浏览器API Streams的Blazor封装器。
+* [RazorKit](https://github.com/ekondur/RazorKit)：RazorKit是一套轻量级、流式风格的Razor HTML辅助工具集，它使开发人员能够轻松地将流行的JavaScript库集成到ASP.NET应用程序中。
+* [Blazor.MediaStreamRecording](https://github.com/KristofferStrube/Blazor.MediaStreamRecording)：用于MediaStream录制浏览器API的Blazor封装。
+* [Blazor.WebIDL](https://github.com/KristofferStrube/Blazor.WebIDL)：Blazor为标准WebIDL规范中使用的类型和接口提供封装。
+* [Blazor.DOM](https://github.com/KristofferStrube/Blazor.DOM)：一个用于DOM浏览器API的Blazor封装库。
+* [BlazorDeviceInterop](https://github.com/darnton/BlazorDeviceInterop)：Blazor库，用于与浏览器Web API交互。
+* [Blazorators](https://github.com/IEvangelist/blazorators)：Blazorators提供C#源代码生成器和生成的包，用于实现强类型Blazor JavaScript互操作。
+* [SpeedyGenerators](https://github.com/raffaeler/SpeedyGenerators)：SpeedyGenerators是一套C#代码生成器。
+* [MD2RazorGenerator](https://github.com/jsakamoto/MD2RazorGenerator)：MD2RazorGenerator是一个用于Blazor的C#源代码生成器NuGet包，它可以将Markdown文件转换为Razor组件。
+* [VxFormGenerator](https://github.com/Aaltuj/VxFormGenerator)：VxFormGenerator是一个Blazor表单生成库。
+* [BlazorToolkit](https://github.com/devInstance/BlazorToolkit)：Blazor Toolkit是一套全面的工具集，旨在增强Blazor应用程序的开发。
+
+## Blazor UI库
+
 * [Radzen Blazor](https://github.com/radzenhq/radzen-blazor)：Radzen Blazor是一套包含90多个免费原生Blazor UI组件的套件，包含DataGrid、Scheduler、Charts以及强大的主题功能，包括Material Design和FluentUI。
 * [Ant Design Blazor](https://github.com/ant-design-blazor/ant-design-blazor)：一套基于Ant Design和Blazor的丰富的企业级UI组件。
 * [MASA.Blazor](https://github.com/masastack/MASA.Blazor)：基于Material Design的Blazor UI组件库。
@@ -8955,197 +9038,140 @@ permalink: /csharp
 * [Fluent UI Blazor](https://github.com/microsoft/fluentui-blazor)：Microsoft Fluent UI Blazor组件库。
 * [MudBlazor](https://github.com/MudBlazor/MudBlazor)：Blazor组件库基于Material Design原则，注重易用性和可扩展性。
 * [Bootstrap Blazor](https://github.com/dotnetcore/BootstrapBlazor)：Bootstrap Blazor是一个基于Bootstrap和Blazor的企业级UI组件库。
-* [TabBlazor](https://github.com/TabBlazor/TabBlazor)：基于Tabler构建的Blazor管理后台模板。
-* [BlazorTable](https://github.com/IvanJosipovic/BlazorTable)：Blazor表格组件，具备排序、分页和筛选功能。
-* [Photino.Blazor](https://github.com/tryphotino/photino.Blazor)：Photino是一个轻量级的开源框架，用于使用Web UI技术构建原生、跨平台的桌面应用程序。
 * [Havit.Blazor](https://github.com/havit/Havit.Blazor)：适用于ASP.NET Blazor的免费Bootstrap 5组件。
+* [Element Blazor](https://github.com/Element-Blazor/Element-Blazor)：Element的Blazor版本。
+* [LumexUI](https://github.com/LumexUI/lumexui)：LumexUI是一个开源项目，提供多种Blazor UI组件，所有组件均使用Tailwind CSS完全构建，旨在实现简化且现代化的网页开发。
+* [Tailwind .NET](https://github.com/kallebysantos/tailwind-dotnet)：非官方的.NET Tailwind CSS集成。
+* [Blazorade Bootstrap](https://github.com/Blazorade/Blazorade-Bootstrap)：为Blazor应用实现的Bootstrap组件。
+* [PanoramicData.Blazor](https://github.com/panoramicdata/PanoramicData.Blazor)：Blazor的UI组件。
+* [Ignite UI Blazor](https://github.com/IgniteUI/igniteui-blazor)：Ignite UI Blazor是一个完整的UI组件库，使你能够使用封装和可重用组件的概念以无依赖的方式构建现代Web应用程序。
+* [NeoUI](https://github.com/jimmyps/blazor-shadcn-ui)：一个受Shadcn UI启发的Blazor综合UI组件库。
+* [Blazui](https://gitee.com/wzxinchen/blazui)：Element的Blazor版本。
+* [Abp.RadzenUI](https://github.com/ShaoHans/Abp.RadzenUI)：Abp RadzenUI是一个基于ABP框架构建的Blazor Server UI主题，并使用Radzen Blazor组件库精心打造。
+* [TwBlazor](https://github.com/twblazor/twblazor)：功能全面的可定制Tailwind CSS、Blazor .NET 10组件库。
+* [BlazorEngine](https://github.com/f4n0/BlazorGenerator)：BlazorEngine是一个库，它可以让你从C#模型和属性生成完整功能的Blazor UI页面。
+
+## Blazor组件库
+
+* [BlazorTable](https://github.com/IvanJosipovic/BlazorTable)：Blazor表格组件，具备排序、分页和筛选功能。
 * [Grid.Blazor](https://github.com/gustavnavar/Grid.Blazor)：GridBlazor是一个Blazor组件，用于以网格形式显示数据。
 * [BlazorContextMenu](https://github.com/stavroskasidis/BlazorContextMenu)：Blazor的上下文菜单组件。
 * [BlazorMonaco](https://github.com/serdarciplak/BlazorMonaco)：为微软Monaco编辑器开发的Blazor组件。
-* [Blazor.EventAggregator](https://github.com/mikoskinen/Blazor.EventAggregator)：Blazor.EventAggregator是一个轻量级的Blazor事件聚合器。
-* [CodeBeam.MudBlazor.Extensions](https://github.com/CodeBeamOrg/CodeBeam.MudBlazor.Extensions)：来自社区贡献者的MudBlazor实用第三方扩展组件。
-* [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor)：将Chart.js图表引入Blazor。
-* [Toast](https://github.com/Blazored/Toast)：这是一个用于Blazor和Razor组件应用的无JavaScript Toast实现。
-* [Ignis](https://github.com/DavidVollmers/Ignis)：Blazor框架，用于构建现代Web应用程序。
-* [Element Blazor](https://github.com/Element-Blazor/Element-Blazor)：Element的Blazor版本。
-* [Canvas](https://github.com/BlazorExtensions/Canvas)：Microsoft Blazor的HTML5 Canvas API实现。
-* [TimeWarp.State](https://github.com/TimeWarpEngineering/timewarp-state)：TimeWarp.State是一个用于Blazor应用程序的全异步状态管理库，利用res管道来实现Flux模式。
-* [Blazor.ECharts](https://github.com/lishewen/Blazor.ECharts)：Blazor版本的ECharts图表组件。
-* [BlazorTemplater](https://github.com/conficient/BlazorTemplater)：一个从Razor组件生成HTML的库。
 * [Blazored Menu](https://github.com/Blazored/Menu)：一个适用于Blazor和Razor Components应用程序的免费JavaScript菜单库。
 * [TDesignBlazor](https://github.com/tdesign-blazor/TDesignBlazor)：基于腾讯TDesign的Blazor企业级组件库。
-* [BUnit](https://github.com/bUnit-dev/bUnit)：BUnit是Blazor组件的一个测试库。
-* [Blazor Redux](https://github.com/torhovland/blazor-redux)：该库为Blazor提供类似Redux风格的状态管理。
-* [BlazorWorker](https://github.com/Tewr/BlazorWorker)：用于在客户端Blazor中创建DotNet Web Worker线程/多线程的库。
-* [LumexUI](https://github.com/LumexUI/lumexui)：LumexUI是一个开源项目，提供多种Blazor UI组件，所有组件均使用Tailwind CSS完全构建，旨在实现简化且现代化的网页开发。
 * [Typeahead](https://github.com/Blazored/Typeahead)：Blazor应用程序的自动完成控件。
-* [BlazorFileReader](https://github.com/Tewr/BlazorFileReader)：用于在Blazor中从文件输入元素或拖放目标创建只读文件流的库。
 * [DevExpress Blazor](https://github.com/DevExpress/Blazor)：DevExpress UI Blazor提供原生且高性能的UI组件，包括网格、数据透视表、调度器、图表和数据编辑器。
-* [Plotly.Blazor](https://github.com/LayTec-AG/Plotly.Blazor)：这个库将知名的图表库plotly.js封装成一个Razor组件，可用于Blazor项目中。
-* [LeafletBlazor](https://github.com/ichim/LeafletForBlazor-NuGet)：LeafletBlazor是一个提供用于在Blazor应用程序中显示地图的组件的库。
-* [BlazorWasmPreRendering.Build](https://github.com/jsakamoto/BlazorWasmPreRendering.Build)：发布Blazor WebAssembly应用时，此包会将应用预渲染并以静态HTML文件的形式保存到你的公共文件夹中。
 * [MudBlazor.Markdown](https://github.com/MyNihongo/MudBlazor.Markdown)：基于MudBlazor环境的Markdown组件。
-* [BrowserInterop](https://github.com/RemiBou/BrowserInterop)：该库提供在Blazor应用中访问浏览器API的功能。
-* [Blazor.WebAudio](https://github.com/KristofferStrube/Blazor.WebAudio)：用于Web Audio浏览器API的Blazor封装。
-* [GeoBlazor](https://github.com/dymaptic/GeoBlazor)：GeoBlazor将ArcGIS Maps SDK for JavaScript的强大功能集成到你的Blazor应用程序中。
-* [BlazorMobile](https://github.com/Daddoon/BlazorMobile)：BlazorMobile是一套用于将Blazor网页应用嵌入为独立移动应用的Nuget包和项目模板。
-* [Razor.SweetAlert2](https://github.com/Basaingeal/Razor.SweetAlert2)：一个美观、响应式、可定制、符合WAI-ARIA标准的JavaScript弹出框替代方案。
-* [Toolbelt.Blazor.I18nText](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText)：该类库提供在你的Blazor应用中本地化文本的能力。
 * [GoogleCaptchaComponent](https://github.com/babaktaremi/GoogleCaptchaComponent)：将Google reCaptcha实现为Blazor组件。
-* [BlazorJSComponents](https://github.com/MackinnonBuck/blazor-js-components)：
-* [BlazorECharts](https://github.com/caopengfei/BlazorECharts)：Blazor版本的ECharts图表组件。
-* [Tailwind .NET](https://github.com/kallebysantos/tailwind-dotnet)：非官方的.NET Tailwind CSS集成。
-* [Blazor.Geolocation](https://github.com/AspNetMonsters/Blazor.Geolocation)：此软件包为Blazor应用程序提供对浏览器地理位置API的访问权限。
-* [Blazor Extensions](https://github.com/BlazorExtensions/Storage)：Blazor Extensions是一组旨在为Blazor添加有用功能的软件包。
-* [RazorConsole](https://github.com/RazorConsole/RazorConsole)：RazorConsole架起了现代Web用户界面开发与控制台应用程序之间的桥梁。
-* [Htmxor](https://github.com/egil/Htmxor)：该软件包使Blazor Static SSR能够与Htmx无缝配合使用。
+* [BlazorJSComponents](https://github.com/MackinnonBuck/blazor-js-components)：BlazorJSComponents是一个Blazor库，核心能力是让任意JavaScript文件在任意Blazor组件、任意渲染模式下动态加载。
 * [Blazor.Cropper](https://github.com/Chronostasys/Blazor.Cropper)：一个Blazor库，提供了一个用于裁剪图像的组件。
-* [Blazing.Mvvm](https://github.com/gragra33/Blazing.Mvvm)：Blazing.Mvvm通过与CommunityToolkit.Mvvm的无缝集成，为Blazor应用程序带来完整的MVVM支持。
-* [GGNet](https://github.com/pablofrommars/GGNet)：GG.Net让数据科学家和开发者能够为.NET和Blazor Web应用创建互动且灵活的图表。
-* [Blazorex](https://github.com/mizrael/Blazorex)：Blazorex是一个用于Blazor的HTML Canvas封装库。
-* [BabylonBlazor](https://github.com/AlexNek/BabylonBlazor)：该库将知名的3D库Babylon.js打包成一个Razor组件，可在C# Blazor项目中使用。
-* [BlazorQuery](https://github.com/kevinjpetersen/BlazorQuery)：BlazorQuery是一个Blazor库，它完全用C#封装了jQuery，因此可以直接在C#环境中进行DOM操作、Ajax等操作。
 * [BlazorProgressIndicator](https://github.com/h3x4d3c1m4l/BlazorProgressIndicator)：适用于Microsoft ASP.NET Core Blazor的简单易用的加载指示器。
 * [HTMXRazor](https://github.com/cwoodruff/htmxRazor)：适用于ASP.NET Core的HTMX组件。
-* [Blazor Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts)：这是一个适用于Blazor和WebAssembly的开源SVG图表库。
-* [BlazorComponent](https://github.com/masastack/BlazorComponent)：抽离出无样式的底层组件框架，支持基于属性、插槽、自由内嵌组件等方式二次开发自己的UI组件库。
-* [Blazor Developer Tools](https://github.com/joe-gregory/blazor-devtools)：用于Blazor的可视化开发工具。
 * [BlazorGrid](https://github.com/Akinzekeel/BlazorGrid)：BlazorGrid是另一个用于Blazor的网格组件。
-* [BlazorMaps](https://github.com/fis-sst/BlazorMaps)：BlazorMaps是一个Blazor库，它提供了一个用于Leaflet.js库提供的地图的C#接口。
-* [EasyApi](https://github.com/bpawluk/EasyApi)：一种用于Blazor应用程序定义和使用Web API的新方法。
-* [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor)：该项目使用源生成器提高了Blazor组件的性能，并提供了有用的诊断工具。
-* [Toolbelt.Blazor.HttpClientInterceptor](https://github.com/jsakamoto/Toolbelt.Blazor.HttpClientInterceptor)：在客户端Blazor WebAssembly应用程序中拦截所有发送的HTTP请求的类库。
-* [Blazor.Cookies](https://github.com/BitzArt/Blazor.Cookies)：BitzArt.Blazor.Cookies是一个NuGet包，用于简化在Blazor应用程序中处理浏览器Cookies。
-* [Blazor.IndexedDB.Framework](https://github.com/Reshiru/Blazor.IndexedDB.Framework)：一种与IndexedDB交互的简便方法，让它感觉像EFCore但异步。
-* [SqliteWasmBlazor](https://github.com/b-straub/SqliteWasmBlazor)：Blazor SQLite实现，完全支持EFCore和OPFS。
 * [BlazorGrid](https://github.com/AnkitSharma-007/BlazorGrid)：一个用于Blazor的可重用网格组件，支持客户端分页。
 * [Blazor.Console](https://github.com/ardacetinkaya/Blazor.Console)：一个简单的基于Web的命令行界面(CLI)组件，用于ASP.NET Core Blazor应用程序。
-* [BlazorRouter](https://github.com/hez2010/BlazorRouter)：一个出色的用于Blazor的路由器，受React Router启发，为Blazor提供声明式路由。
-* [NObservable](https://github.com/kekekeks/NObservable)：类似MobX的可观察状态管理库，支持Blazor。
 * [BlazorFrame](https://github.com/Tim-Maes/BlazorFrame)：一个以安全为先的Blazor iframe组件，具有自动调整大小、跨框架消息传递和全面的内容安全策略集成。
-* [BlazorWasmAntivirusProtection](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection)：该软件包尝试防止杀毒软件将Blazor Wasm标记为恶意软件的误报。
 * [BlazorTimeline](https://github.com/Morasiu/BlazorTimeline)：适用于Blazor的简单时间轴组件。
-* [Vizor.ECharts](https://github.com/datahint-eu/vizor-echarts)：Apache ECharts的Blazor封装器。
-* [DotNetify Blazor](https://github.com/dsuryd/dotNetify-Blazor)：DotNetify Blazor是一个免费、开源的项目，让你可以使用Blazor WebAssembly创建实时、响应式、跨平台的应用程序。
-* [BlazorIntersectionObserver](https://github.com/ljbc1994/BlazorIntersectionObserver)：用于Blazor应用的Intersection Observer API封装。
 * [MComponents](https://github.com/manureini/MComponents)：一个Blazor组件库，支持网格、选择、向导等。
-* [Blazouter](https://github.com/Taiizor/Blazouter)：一个功能强大的类似React Router的Blazor应用程序路由库。
-* [Blazor Charts](https://github.com/TimChen44/blazor-charts)：基于Blazor技术，使用C#编写的Web前端Charts组件。
-* [OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)：一个强大的Blazor组件库，封装了OpenLayers，用于.NET应用程序中的交互式地图。
-* [BlazorEngine](https://github.com/f4n0/BlazorGenerator)：BlazorEngine是一个库，它可以让你从C#模型和属性生成完整功能的Blazor UI页面。
 * [XtermBlazor](https://github.com/BattlefieldDuck/XtermBlazor)：将xterm.js终端模拟器集成到Blazor应用程序中的Blazor库。
-* [EasyAppDev.Blazor.Store](https://github.com/mashrulhaque/EasyAppDev.Blazor.Store)：一个受Zustand启发的状态管理库，适用于Blazor WebAssembly、Blazor Server和MAUI Hybrid。
-* [BlazorJsonLocalization](https://github.com/xaviersolau/BlazorJsonLocalization)：提供基于JSON的Blazor本地化支持。
-* [Blazorade Bootstrap](https://github.com/Blazorade/Blazorade-Bootstrap)：为Blazor应用实现的Bootstrap组件。
-* [Piral.Blazor](https://github.com/smapiot/Piral.Blazor)：使用Piral实现Blazor在微前端无缝运行所需的所有.NET功能。
-* [Phetch](https://github.com/Jcparkyn/phetch)：Phetch是一个小型的Blazor库，用于处理异步查询状态，其风格类似于React Query、SWR或RTK Query。
-* [BionicCLI](https://github.com/BionicFramework/BionicCLI)：Ionic Framework CLI克隆，用于使用Blazor构建和部署PWA和移动应用。
-* [FormCraft](https://github.com/phmatray/FormCraft)：在Blazor中使用优雅的流式API构建类型安全的动态表单。
 * [Toast UI Blazor Calendar](https://github.com/gismofx/toast_ui.blazor_calendar)：Blazor的Toast UI日历包装器。
-* [PanoramicData.Blazor](https://github.com/panoramicdata/PanoramicData.Blazor)：Blazor的UI组件。
-* [Blazor.WebForm.Components](https://github.com/Jurioli/Blazor.WebForm.Components)：ASP.NET Web Forms System.Web.UI.WebControls Razor组件，适用于Blazor WebAssembly、Blazor Hybrid、Blazor Server。
-* [BytexDigital.Blazor.Components.CookieConsent](https://github.com/BytexDigital/BytexDigital.Blazor.Components.CookieConsent)：该库提供了一种简单的方法来处理Blazor WASM/服务器端应用程序中符合GDPR标准的Cookie同意问题。
-* [ElectronNET.Blazor](https://github.com/CloudNimble/ElectronNET.Blazor)：一个帮助Blazor和Electron.NET更好地协同工作的库。
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards)：Blazor Adaptive Cards是一个社区项目，为你的Blazor应用程序提供自适应卡片支持。
 * [Blazored AutoSaveEditForm](https://github.com/Blazored/AutoSaveEditForm)：一个替代默认EditForm组件的组件，它会自动保存表单，直到表单成功提交。
-* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents)：用于Blazor项目的简单组件。
 * [W8lessLabs.Blazor.LocalFiles](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles)：LocalFiles库包含一个Blazor组件，使将本地文件加载到在Wasm上运行的.NET代码中变得非常简单。
+* [BlazorComponents](https://github.com/muqeet-khan/BlazorComponents)：用于Blazor项目的简单组件。
 * [BlazorCameraStreamer](https://github.com/baltermia/blazor-camera-streamer)：一个Blazor组件库，添加了一个易于使用的摄像头流功能。
 * [Excubo.Blazor.Grids](https://github.com/excubo-ag/Blazor.Grids)：Excubo.Blazor.Grids是一个原生Blazor网格和仪表板组件库。
-* [Blazor Utitlity](https://github.com/aksoftware98/blazor-utilities)：通过消息中心在你的组件之间流畅地发送数据。
-* [Localisation](https://github.com/Blazored/Localisation)：一个用于在客户端Blazor应用程序中提供本地化的库。
-* [Ignite UI Blazor](https://github.com/IgniteUI/igniteui-blazor)：Ignite UI Blazor是一个完整的UI组件库，使你能够使用封装和可重用组件的概念以无依赖的方式构建现代Web应用程序。
-* [ComponentBuilder](https://github.com/teacher-zhou/ComponentBuilder)：一个用于创建Blazor组件的自动化框架。
-* [MudX](https://github.com/MudXtra/MudX)：MudBlazor的扩展库。
-* [BlazorMedia](https://github.com/Mercurial/BlazorMedia)：适用于Blazor的开源媒体捕获API和组件。
-* [LightweightCharts.Blazor](https://github.com/mr-azazael/LightweightCharts.Blazor)：TradingView的轻量级图表JavaScript库的Blazor封装。
-* [Blazor.FileSystemAccess](https://github.com/KristofferStrube/Blazor.FileSystemAccess)：一个用于浏览器API文件系统访问的Blazor封装器。
-* [Blazor.DownloadFileFast](https://github.com/StefH/Blazor.DownloadFileFast)：无需任何JavaScript库引用或依赖，即可从Blazor快速将文件下载到浏览器。
-* [BlazorTUI](https://github.com/alexandrelozano/BlazorTUI)：Blazor Server文本用户界面库。
-* [Blazor.Sidepanel](https://github.com/Append-IT/Blazor.Sidepanel)：Microsoft Blazor的侧边面板。
 * [Blazor Modal Dialogs](https://github.com/LiquidTechnologies/blazor-modal-dialog)：适用于Blazor的简单且可自定义的模态对话框和消息框实现。
-* [MetaMask.Blazor](https://github.com/michielpost/MetaMask.Blazor)：该库提供了一个简单的助手，用于在Blazor WebAssembly中使用MetaMask。
-* [Blazor.FileAPI](https://github.com/KristofferStrube/Blazor.FileAPI)：一个用于浏览器文件API的Blazor封装器。
+* [BlazorTUI](https://github.com/alexandrelozano/BlazorTUI)：Blazor Server文本用户界面库。
 * [BlazorPluginComponents](https://github.com/elgransan/BlazorPluginComponents)：允许将组件作为插件加载。
+* [Blazor.DownloadFileFast](https://github.com/StefH/Blazor.DownloadFileFast)：无需任何JavaScript库引用或依赖，即可从Blazor快速将文件下载到浏览器。
 * [Densen.Extensions](https://github.com/densen2014/Densen.Extensions)：Densen的Blazor组件库和BootstrapBlazor服务扩展包。
 * [QuickForm](https://github.com/ddjerqq/quickform)：QuickForm是一个Blazor组件，它允许以最少的努力快速创建非常漂亮的HTML表单。
-* [BlazorVirtualTreeView](https://github.com/jluthi/BlazorVirtualTreeView)：一个高性能、虚拟化的Blazor树视图组件，支持懒加载。
-* [Razor.Clipboard](https://github.com/Basaingeal/Razor.Clipboard)：此软件包为Blazor应用程序提供对浏览器剪贴板API的访问。
-* [BlazorForms](https://github.com/ProCodersPtyLtd/BlazorForms)：现代低代码框架，简化了流程、表单和规则的创建。
-* [BlazorCanvas](https://github.com/carlfranklin/BlazorCanvas)：Canvas内置于支持HTML5或更高版本的所有现代浏览器中。
 * [DataTables.Blazor](https://github.com/JustinWilkinson/DataTables.Blazor)：jQuery DataTables移植到Blazor。
 * [Blazor Color Picker](https://github.com/tossnet/Blazor-Color-Picker)：打开一个包含Blazor应用材质颜色的调色板。
 * [BlazorXTabs](https://github.com/David-Moreira/BlazorXTabs)：一个为Blazor提供各种标签功能的扩展标签组件库。
 * [Webenology.Blazor.Components](https://github.com/webenology/webenology.blazor.components)：Blazor组件库。
-* [Blazor.FileSystem](https://github.com/KristofferStrube/Blazor.FileSystem)：文件系统浏览器API的Blazor封装。
-* [ChartJSBlazor](https://github.com/Joelius300/ChartJSBlazor)：这是一个封装了ChartJS的Blazor组件。
 * [Blazor Reports](https://github.com/BlazorReports/blazor-reports)：使用Blazor组件生成PDF报告。
-* [EmbeddedBlazorContent](https://github.com/SamProf/EmbeddedBlazorContent)：这个库可以帮助你在服务器端Blazor项目中启用来自BlazorLib项目的内容文件。
-* [SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers)：使用WebWorker和SharedWebWorker在单独的线程中调用服务。
 * [FluentUI Blazor Community Extensions](https://github.com/Community-Toolkit-for-Fluent-UI-Blazor/fluentui-blazor-community-extensions)：FluentUI.Blazor.Community.Components包提供了一组开源的Razor组件，用来扩展官方的Microsoft FluentUI Blazor库。
 * [WpfGridLayout.Blazor](https://github.com/aboudoux/WpfGridLayout.Blazor)：提供一种简单的方法在Blazor中创建像WPF一样的网格布局。
-* [NeoUI](https://github.com/jimmyps/blazor-shadcn-ui)：一个受Shadcn UI启发的Blazor综合UI组件库。
-* [Syncfusion Blazor Toolkit](https://github.com/syncfusion/blazor-toolkit)：Syncfusion Blazor Toolkit是一组高性能的开源轻量级UI组件，旨在加快Blazor应用程序开发。
-* [BlazorBindGen](https://github.com/sps014/BlazorBindGen)：一个用于JS的绑定生成器，在Blazor Wasm和Server中调用任何JS函数或属性，无需编写JS包装器。
-* [RazorTemplates](https://github.com/DamianEdwards/RazorTemplates)：尝试为Razor组件创建模板扩展。
-* [AzureMapsControl.Components](https://github.com/arnaudleclerc/AzureMapsControl.Components)：这个库让你可以在你的Razor应用中使用Azure地图。
-* [TextCopy](https://github.com/CopyText/TextCopy)：一个用于在剪贴板和文本之间复制文本的跨平台软件包。
 * [Lumeo](https://github.com/Brain2k-0005/Lumeo)：一个现代化的、易于使用的Blazor组件库，包含130多个组件。
-* [Blazui](https://gitee.com/wzxinchen/blazui)：Element的Blazor版本。
+* [RazorTemplates](https://github.com/DamianEdwards/RazorTemplates)：尝试为Razor组件创建模板扩展。
 * [DC.Blazor](https://gitee.com/xingchensoft/DC.Blazor)：Blazor前端组件类，基于WebAssembly，打造一个类似于iview和ELE的.NET Core前端框架。
-* [SignalsDotnet](https://github.com/fedeAlterio/SignalsDotnet)：该库是Angular Signals的.NET移植版，适用于.NET MVVM UI框架和Blazor应用程序。
 * [LoreSoft.Blazor.Controls](https://github.com/loresoft/LoreSoft.Blazor.Controls)：一个全面的高质量Blazor组件集合，旨在通过丰富的用户界面元素提升你的Web应用。
 * [CKEditor 5 Blazor](https://github.com/Mati365/ckeditor5-blazor)：一个轻量级的多平台所见即所得编辑器集成，适用于ASP.NET Core Blazor服务器和WebAssembly。
-* [Blazor Terra](https://github.com/LumexUI/blazor-terra)：为Blazor构建的漂亮地图组件，使用了Tailwind CSS。
-* [Blorc.PatternFly](https://github.com/WildGums/Blorc.PatternFly)：PatternFly的Blazor封装组件。
-* [BlazorDX](https://github.com/logixrcorp/BlazorDX)：BazorDX包含100多个组件，涵盖叠加层、输入框、导航、数据网格系列、数据可视化、日程安排、编辑器、文件、表单。
-* [Blazor.State](https://github.com/BitzArt/Blazor.State)：BitzArt.Blazor.State允许使用Blazor在渲染环境之间持久化组件状态。
-* [Abp.RadzenUI](https://github.com/ShaoHans/Abp.RadzenUI)：Abp RadzenUI是一个基于ABP框架构建的Blazor Server UI主题，并使用Radzen Blazor组件库精心打造。
-* [QueryLink](https://github.com/ByteAether/QueryLink)：QueryLink是一个NuGet包，旨在简化像数据网格和数据表这样的UI组件与基于IQueryable的后端数据源的集成。
-* [Siemens IX Blazor](https://github.com/siemens/ix-blazor)：用于Blazor的西门子IX库。
-* [Blazor.WebShare](https://github.com/Append-IT/Blazor.WebShare)：在C#中为Microsoft Blazor实现Web Share API。
-* [Pax.BlazorChartJs](https://github.com/ipax77/pax.BlazorChartJs)：Pax.BlazorChartJs是Chart.js的一个Blazor封装。
-* [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode)：Blazor Pretty Code是一个组件，供其他组件创建者在其文档页面上展示代码片段。
-* [UISupportBlazor](https://github.com/Graphene-Lab/UISupportBlazor)：Blazor的AI渲染GUI和自动API。
 * [Flare](https://github.com/jrfrigat/Flare)：适用于.NET 10的Blazor组件库，支持Material Design 3和Fluent UI 2主题。
 * [QuickGrid.Toolkit](https://github.com/VaclavElias/QuickGrid.Toolkit)：QuickGrid.Toolkit扩展了Blazor QuickGrid，提供可重用的动态列管理和一些小的UI工具。
-* [AvnAudio](https://github.com/carlfranklin/AvnAudio)：一个用于实时录制音频的Blazor组件，可实时提供音频缓冲区。
-* [BootstrapForRazor](https://github.com/advancedrei/BootstrapForRazor)：Bootstrap的ASP.NET Razor扩展。
-* [BlazorInteractive](https://github.com/plbonneville/BlazorInteractive)：在.NET交互式笔记本中编译和渲染Razor组件。
-* [Blazor.ServiceWorker](https://github.com/KristofferStrube/Blazor.ServiceWorker)：用于Service Worker API的Blazor封装。
-* [A2UI.Blazor](https://github.com/xuzeyu91/A2UI.Blazor)：为Blazor应用程序提供完整的.NET 9 A2UI协议实现。
 * [BlazorDataTable](https://github.com/erossini/BlazorDataTable)：适用于Blazor WebAssembly和Blazor Server的DataTable组件，支持客户端/服务器端分页、筛选和排序。
-* [Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts)：Highcharts库的Blazor封装。
 * [BlazorTextDiff](https://github.com/lzinga/BlazorTextDiff)：一个用于并排显示文本差异并进行字符级高亮显示的Blazor组件。
 * [Blaizio](https://github.com/blaizio/blaizio)：一个基于无头原语和Tailwind CSS v4构建的Blazor UI组件框架。
-* [BlazorMemoire](https://github.com/matthetherington/Blazor-Memoire)：Blazor的备忘录组件，类似于React的useMemo，可以避免冗余的重新渲染。
-* [Blazor.BroadcastChannel](https://github.com/tpeczek/Blazor.BroadcastChannel)：这是一个基于Blazor的HTML5广播频道API实现。
-* [Blazor.Streams](https://github.com/KristofferStrube/Blazor.Streams)：一个用于浏览器API Streams的Blazor封装器。
-* [RazorKit](https://github.com/ekondur/RazorKit)：RazorKit是一套轻量级、流式风格的Razor HTML辅助工具集，它使开发人员能够轻松地将流行的JavaScript库集成到ASP.NET应用程序中。
 * [AuralizeBlazor](https://github.com/fgilde/AuralizeBlazor)：AuralizeBlazor是AudioMotion Analyzer的一个封装组件。
 * [Shiny Controls](https://github.com/shinyorg/controls)：一个功能丰富、即用型的UI控件库，适用于.NET MAUI和Blazor。
 * [FlowState](https://github.com/sps014/FlowState)：一款高性能的Blazor节点编辑器。
 * [VisNetwork.Blazor](https://github.com/stiankroknes/VisNetwork.Blazor)：Blazor组件，适用于vis-network JavaScript库。
 * [Blazor Reports](https://github.com/atlitech/reports)：使用Blazor组件生成PDF报告。
-* [TwBlazor](https://github.com/twblazor/twblazor)：功能全面的可定制Tailwind CSS、Blazor .NET 10组件库。
 * [Blazor.Popper](https://github.com/KristofferStrube/Blazor.Popper)：用于JavaScript Popper.js库的Blazor封装。
-* [Blazor.MediaStreamRecording](https://github.com/KristofferStrube/Blazor.MediaStreamRecording)：用于MediaStream录制浏览器API的Blazor封装。
-* [Skclusive.Mobx.StateTree](https://github.com/skclusive/Skclusive.Mobx.StateTree)：将MobxStateTree移植到C#中，以支持Blazor。
-* [Blazor.WebIDL](https://github.com/KristofferStrube/Blazor.WebIDL)：Blazor为标准WebIDL规范中使用的类型和接口提供封装。
 * [XTerm](https://github.com/BlazorExtensions/XTerm)：Blazor的XTermJS封装。
-* [Blazor.DOM](https://github.com/KristofferStrube/Blazor.DOM)：一个用于DOM浏览器API的Blazor封装库。
-* [BlazorDeviceInterop](https://github.com/darnton/BlazorDeviceInterop)：Blazor库，用于与浏览器Web API交互。
 * [RazorComponents.Markdown](https://github.com/StardustDL/RazorComponents.Markdown)：用于Markdown渲染的Razor组件。
-* [WebVella.BlazorTrace](https://github.com/WebVella/WebVella.BlazorTrace)：BlazorTrace是一款易于添加的库，可让你获取Blazor组件重新渲染和内存使用情况的详细信息，并将其与你创建的不同快照进行比较。
 * [TagHelpers](https://github.com/WebVella/TagHelpers)：基于Bootstrap框架的AspNet.Core Razor TagHelper库。
-* [Blazorators](https://github.com/IEvangelist/blazorators)：Blazorators提供C#源代码生成器和生成的包，用于实现强类型Blazor JavaScript互操作。
-* [SpeedyGenerators](https://github.com/raffaeler/SpeedyGenerators)：SpeedyGenerators是一套C#代码生成器。
-* [MD2RazorGenerator](https://github.com/jsakamoto/MD2RazorGenerator)：MD2RazorGenerator是一个用于Blazor的C#源代码生成器NuGet包，它可以将Markdown文件转换为Razor组件。
 * [Toolbelt.Blazor.HotKeys](https://github.com/jsakamoto/Toolbelt.Blazor.HotKeys)：这是一个类库，为你的Blazor WebAssembly应用程序提供以配置为中心的键盘快捷键。
-* [VxFormGenerator](https://github.com/Aaltuj/VxFormGenerator)：VxFormGenerator是一个Blazor表单生成库。
-* [BlazorToolkit](https://github.com/devInstance/BlazorToolkit)：Blazor Toolkit是一套全面的工具集，旨在增强Blazor应用程序的开发。
 * [IgniteUI.Blazor.GridLite](https://github.com/IgniteUI/IgniteUI.Blazor.GridLite)：IgniteUI.Blazor.GridLite是Infragistics基于Ignite UI Grid Lite Web组件开发的Blazor封装库。
 * [BlazorSplit](https://github.com/BlazorComponents/BlazorSplit)： Blazor的可调整大小的分割视图。
+* [Blazor.Pagination](https://github.com/villainoustourist/Blazor.Pagination)：一个适用于.NET Core Blazor的可重用分页组件。
+* [CodeBeam.MudBlazor.Extensions](https://github.com/CodeBeamOrg/CodeBeam.MudBlazor.Extensions)：来自社区贡献者的MudBlazor实用第三方扩展组件。
+* [BlazorComponent](https://github.com/masastack/BlazorComponent)：抽离出无样式的底层组件框架，支持基于属性、插槽、自由内嵌组件等方式二次开发自己的UI组件库。
+* [Generators.Blazor](https://github.com/excubo-ag/Generators.Blazor)：该项目使用源生成器提高了Blazor组件的性能，并提供了有用的诊断工具。
+* [ComponentBuilder](https://github.com/teacher-zhou/ComponentBuilder)：一个用于创建Blazor组件的自动化框架。
+* [MudX](https://github.com/MudXtra/MudX)：MudBlazor的扩展库。
+* [BlazorMedia](https://github.com/Mercurial/BlazorMedia)：适用于Blazor的开源媒体捕获API和组件。
+* [Blazor.Sidepanel](https://github.com/Append-IT/Blazor.Sidepanel)：Microsoft Blazor的侧边面板。
+* [BlazorVirtualTreeView](https://github.com/jluthi/BlazorVirtualTreeView)：一个高性能、虚拟化的Blazor树视图组件，支持懒加载。
+* [Syncfusion Blazor Toolkit](https://github.com/syncfusion/blazor-toolkit)：Syncfusion Blazor Toolkit是一组高性能的开源轻量级UI组件，旨在加快Blazor应用程序开发。
+* [Blorc.PatternFly](https://github.com/WildGums/Blorc.PatternFly)：PatternFly的Blazor封装组件。
+* [BlazorDX](https://github.com/logixrcorp/BlazorDX)：BazorDX包含100多个组件，涵盖叠加层、输入框、导航、数据网格系列、数据可视化、日程安排、编辑器、文件、表单。
+* [QueryLink](https://github.com/ByteAether/QueryLink)：QueryLink是一个NuGet包，旨在简化像数据网格和数据表这样的UI组件与基于IQueryable的后端数据源的集成。
+* [BlazorPrettyCode](https://github.com/chanan/BlazorPrettyCode)：Blazor Pretty Code是一个组件，供其他组件创建者在其文档页面上展示代码片段。
+* [AvnAudio](https://github.com/carlfranklin/AvnAudio)：一个用于实时录制音频的Blazor组件，可实时提供音频缓冲区。
+* [BlazorInteractive](https://github.com/plbonneville/BlazorInteractive)：在.NET交互式笔记本中编译和渲染Razor组件。
+* [WebVella.BlazorTrace](https://github.com/WebVella/WebVella.BlazorTrace)：BlazorTrace是一款易于添加的库，可让你获取Blazor组件重新渲染和内存使用情况的详细信息，并将其与你创建的不同快照进行比较。
+
+## Blazor图表库
+
+* [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor)：将Chart.js图表引入Blazor。
+* [Canvas](https://github.com/BlazorExtensions/Canvas)：Microsoft Blazor的HTML5 Canvas API实现。
+* [Blazor.ECharts](https://github.com/lishewen/Blazor.ECharts)：Blazor版本的ECharts图表组件。
+* [Plotly.Blazor](https://github.com/LayTec-AG/Plotly.Blazor)：这个库将知名的图表库plotly.js封装成一个Razor组件，可用于Blazor项目中。
+* [BlazorECharts](https://github.com/caopengfei/BlazorECharts)：Blazor版本的ECharts图表组件。
+* [GGNet](https://github.com/pablofrommars/GGNet)：GG.Net让数据科学家和开发者能够为.NET和Blazor Web应用创建互动且灵活的图表。
+* [BabylonBlazor](https://github.com/AlexNek/BabylonBlazor)：该库将知名的3D库Babylon.js打包成一个Razor组件，可在C# Blazor项目中使用。
+* [Blazor Charts](https://github.com/Misfits-Rebels-Outcasts/Blazor-Charts)：这是一个适用于Blazor和WebAssembly的开源SVG图表库。
+* [Vizor.ECharts](https://github.com/datahint-eu/vizor-echarts)：Apache ECharts的Blazor封装器。
+* [Blazor Charts](https://github.com/TimChen44/blazor-charts)：基于Blazor技术，使用C#编写的Web前端Charts组件。
+* [LightweightCharts.Blazor](https://github.com/mr-azazael/LightweightCharts.Blazor)：TradingView的轻量级图表JavaScript库的Blazor封装。
+* [ChartJSBlazor](https://github.com/Joelius300/ChartJSBlazor)：这是一个封装了ChartJS的Blazor组件。
+* [Pax.BlazorChartJs](https://github.com/ipax77/pax.BlazorChartJs)：Pax.BlazorChartJs是Chart.js的一个Blazor封装。
+* [Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts)：Highcharts库的Blazor封装。
+* [Blazorex](https://github.com/mizrael/Blazorex)：Blazorex是一个用于Blazor的HTML Canvas封装库。
+* [BlazorCanvas](https://github.com/carlfranklin/BlazorCanvas)：Canvas内置于支持HTML5或更高版本的所有现代浏览器中。
+
+## Blazor状态管理
+
+* [TimeWarp.State](https://github.com/TimeWarpEngineering/timewarp-state)：TimeWarp.State是一个用于Blazor应用程序的全异步状态管理库，利用res管道来实现Flux模式。
+* [Blazor Redux](https://github.com/torhovland/blazor-redux)：该库为Blazor提供类似Redux风格的状态管理。
+* [NObservable](https://github.com/kekekeks/NObservable)：类似MobX的可观察状态管理库，支持Blazor。
+* [EasyAppDev.Blazor.Store](https://github.com/mashrulhaque/EasyAppDev.Blazor.Store)：一个受Zustand启发的状态管理库，适用于Blazor WebAssembly、Blazor Server和MAUI Hybrid。
+* [Blazor.State](https://github.com/BitzArt/Blazor.State)：BitzArt.Blazor.State允许使用Blazor在渲染环境之间持久化组件状态。
+* [SignalsDotnet](https://github.com/fedeAlterio/SignalsDotnet)：该库是Angular Signals的.NET移植版，适用于.NET MVVM UI框架和Blazor应用程序。
+* [BlazorMemoire](https://github.com/matthetherington/Blazor-Memoire)：Blazor的备忘录组件，类似于React的useMemo，可以避免冗余的重新渲染。
+
+## Blazor地图库
+
+* [GeoBlazor](https://github.com/dymaptic/GeoBlazor)：GeoBlazor将ArcGIS Maps SDK for JavaScript的强大功能集成到你的Blazor应用程序中。
+* [BlazorMaps](https://github.com/fis-sst/BlazorMaps)：BlazorMaps是一个Blazor库，它提供了一个用于Leaflet.js库提供的地图的C#接口。
+* [AzureMapsControl.Components](https://github.com/arnaudleclerc/AzureMapsControl.Components)：这个库让你可以在你的Razor应用中使用Azure地图。
+* [Blazor Terra](https://github.com/LumexUI/blazor-terra)：为Blazor构建的漂亮地图组件，使用了Tailwind CSS。
+* [LeafletBlazor](https://github.com/ichim/LeafletForBlazor-NuGet)：LeafletBlazor是一个提供用于在Blazor应用程序中显示地图的组件的库。
+* [OpenLayers.Blazor](https://github.com/lolochristen/OpenLayers.Blazor)：一个强大的Blazor组件库，封装了OpenLayers，用于.NET应用程序中的交互式地图。
+* [Skclusive.Mobx.StateTree](https://github.com/skclusive/Skclusive.Mobx.StateTree)：将MobxStateTree移植到C#中，以支持Blazor。
 
 ## IDE
 
@@ -13157,10 +13183,10 @@ permalink: /csharp
 
 * [XiaoFeng.Onvif](https://github.com/zhuovi/XiaoFeng.Onvif)：XiaoFeng.Onvif基于.NET平台使用C#封装Onvif常用接口、设备、媒体、云台等功能。
 * [Onvif.Core](https://github.com/Jazea/Onvif.Core)：一个轻量级的ONVIF发现和客户端库。
-* [Onvif Discovery](https://github.com/vicmaeg/onvif-discovery)：OnvifDiscovery是一个简单的跨平台.NET库，用于发现符合ONVIF标准的设备。
+* [Onvif Discovery](https://github.com/vicmartos/onvif-discovery)：OnvifDiscovery是一个简单的跨平台.NET库，用于发现符合ONVIF标准的设备。
 * [SharpOnvif](https://github.com/jimm98y/SharpOnvif)：这是一个用C#实现的Onvif接口，包括客户端和服务端。
 * [ONVIF](https://github.com/mictlanix/onvif)：一个轻量级的ONVIF客户端库。
-* [ONVIF Interface](https://github.com/thephez/onvif-interface)：用于连接和控制摄像头的ONVIF接口。
+* [Onvif.Open](https://github.com/sarthak-k/Onvif.Open)：.NET的Onvif库。
 
 ## 电力系统
 
