@@ -2119,6 +2119,7 @@ permalink: /csharp
 * [LlamaIndex.NET](https://github.com/run-llama/llamaindex.net)：LlamaIndex.NET包含用于处理LlamaIndex的核心类型和客户端SDK。
 * [DSpyNet](https://github.com/al322se/DSpyNet)：DSpyNet是Stanford DSPy框架的C# .NET移植版。
 * [CrestApps.Core](https://github.com/CrestApps/CrestApps.Core)：CrestApps.Core是一个适用于.NET的可组合AI管理和应用程序框架。
+* [Senparc.AI](https://github.com/Senparc/Senparc.AI)：Senparc.AI是Senparc生态系统的AI扩展包。
 
 ## LLM客户端
 
@@ -2177,6 +2178,10 @@ permalink: /csharp
 * [Zhipu SDK C#](https://github.com/MetaGLM/zhipuai-sdk-csharp-v4)：智谱大模型开放接口SDK。
 * [AutoGpt](https://github.com/AIDotNet/AutoGpt)：AutoGpt智能推理SDK，利用AI本身的能力进行多次对话推理，回复效果更理想、更智能。
 * [CopilotDev.NET](https://github.com/copilotplayground/CopilotDev.NET)：GitHub Copilot的非官方C#开发者API。
+* [Mirror.ChatGpt](https://github.com/yinanrong/Mirror.ChatGpt)：本项目提供基于C#语言的ChatGPT官方API和Bing Chat非官方API。
+* [DevextremeAI](https://github.com/AndreaPic/DevextremeAI)：DevExtremeAI是一个完整实现了所有OpenAI API的库。
+* [OpenAi Assistant .NET API Wrapper](https://github.com/samuelgjekic/OpenAI-Assistants-API-Wrapper-for-.NET)：适用于OpenAI Assistants API的.NET SDK。
+* [AzureOpenAIClient](https://github.com/jasonshave/AzureOpenAIClient)：本项目包含一个非官方的.NET客户端库，用于Azure的OpenAI资源。
 
 ## LLM推理
 
@@ -2382,6 +2387,7 @@ permalink: /csharp
 * [UAX29 .NET](https://github.com/clipperhouse/uax29.net)：一个用于.NET的分词器，可根据Unicode UAX #29标准拆分单词、字形和句子。
 * [IKAnalyzer.NET](https://github.com/stanzhai/IKAnalyzer.NET)：IKAnalyzer中文分词器在.NET平台下的实现。
 * [Uyghur Tokenizer](https://github.com/mardan/Uyghur-Tokenizer)：一个简单的维吾尔语词级分词器。
+* [LLMSharp Tokenizers](https://github.com/veerashayyagari/llmsharp-tokenizers)：用C#实现的BPE分词器，适用于Anthropic和OpenAI LLM产品。
 
 ## 拼音库
 
@@ -7694,6 +7700,7 @@ permalink: /csharp
 * [Facility](https://github.com/FacilityApi/Facility)：用于与Facility API框架配合使用的工具和库。
 * [Ultra](https://github.com/egarim/Ultra)：Ultra是一套开源模块，用于扩展.NET应用程序框架DevExpress XAF的功能。
 * [Iron Framework](https://github.com/megadotnet/ironframework)：领域驱动设计(DDD)、分层架构、面向切面编程(AOP)快速开发基础设施。
+* [DragonSpark Framework](https://github.com/DragonSpark/Framework)：基于Blazor的应用程序开发框架。
 
 ## 权限管理系统
 
@@ -10355,6 +10362,7 @@ permalink: /csharp
 * [Guilded.NET](https://github.com/Guilded-NET/Guilded.NET)：Guilded.NET是一个基于.NET平台的免费开源非官方Guilded API框架/库。
 * [MaxBotApi](https://github.com/AntipovVladimir/MaxBotApi)：适用于Max Bot API的.NET客户端。
 * [Viber.Bot](https://github.com/edanila-zz/viber.bot)：Viber REST API的C#封装。
+* [Botticelli](https://github.com/devgopher/botticelli)：Botticelli是一个开源的.NET Core框架，用于构建通用聊天机器人。
 
 ## QQ机器人
 
@@ -12259,6 +12267,7 @@ permalink: /csharp
 * [WebApiClientGen](https://github.com/zijianhuang/webapiclientgen)：强类型客户端API生成器可以从ASP.NET Web API和.NET Core Web API生成C#.NET和TypeScript编写的强类型客户端API，支持jQuery和Angular 2+。
 * [MvvmCodeGenerator](https://github.com/damienaicheh/MvvmCodeGenerator)：适用于.NET的MVVM代码生成器工具。
 * [T4Immutable](https://github.com/xaviergonz/T4Immutable)：T4Immutable是一个用于C# .NET应用程序的T4模板，它为不可变类生成代码。
+* [DPB](https://github.com/Senparc/DPB)：DPB是一款允许开发人员自动生成项目代码的工具。
 
 ## 图像处理
 
