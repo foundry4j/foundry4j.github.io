@@ -738,6 +738,7 @@ permalink: /csharp
 * [Netronics](https://github.com/shlee322/Netronics)：Netronics的目标是在.NET Framework上开发一个简单、高性能的通用服务器框架。
 * [Xeora](https://github.com/xeora/v7-framework)：Xeora是一个面向.NET开发人员的Web开发框架。
 * [Serverito](https://github.com/RonenNess/Serverito)：用于C# Web应用程序的HTTP框架。
+* [Effinitive](https://github.com/HBartosch/Effinitive)：一个高性能的C# Web框架。
 
 ## REST框架
 
@@ -2220,6 +2221,8 @@ permalink: /csharp
 * [Jacquard](https://github.com/apncodes/Jacquard)：用于构建智能体的原生C# SDK。
 * [Pi.NET](https://github.com/AIDotNet/pi.net)：Pi.NET是Pi的.NET 10移植版。
 * [MentorAgent](https://github.com/Novior-dev/MentorAgent)：为你的.NET应用添加AI代理。
+* [AIFrameworkOpen](https://github.com/AIFramework/AIFrameworkOpen)：AIFrameworkOpen是一个通用的跨平台框架，用于在C#中开发和实现人工智能解决方案。
+* [AgentFramework](https://github.com/VeritasSoftware/AgentFramework)：使用OpenAI LLM创建智能AI代理的框架。
 
 ## MCP
 
@@ -6156,6 +6159,7 @@ permalink: /csharp
 * [ConventionalOptions](https://github.com/derekgreer/conventional-options)：ConventionalOptions是一个方便使用Microsoft .NET Core配置API的库。
 * [Configuration](https://github.com/res-tec-systems-legacy/configuration)：一个用于强类型配置并带有验证功能的C#库。
 * [Thinktecture.Configuration](https://github.com/PawelGerr/Thinktecture.Configuration)：.NET Core的强类型配置，完全支持依赖注入。
+* [AppCfg.Net](https://github.com/minhhungit/AppCfg.Net)：适用于.NET的类型安全、可扩展且功能强大的配置框架。
 
 ## INI
 
@@ -6302,6 +6306,7 @@ permalink: /csharp
 * [Dexiom.EPPlusExporter](https://github.com/Dexiom/Dexiom.EPPlusExporter)：一个非常简单但功能极其强大的库，可以根据对象、数组、列表、集合等生成Excel文档。
 * [LFEG](https://github.com/zihotki/LFEG)：该库旨在生成无需复杂格式或任何公式的大型Excel报表。
 * [ExcelLibrary](https://github.com/darknessomi/excellibrary)：该项目的目标是提供一个原生的.NET解决方案，用于创建、读取和修改Excel文件，而无需使用COM互操作或OLEDB连接。
+* [Exceler](https://github.com/AmirMahdiyar/Exceler)：一个高性能、零分配内存的.NET Excel框架，采用Pipeline架构、异步分块和EPPlus技术。
 
 ## CSV
 
@@ -7701,6 +7706,7 @@ permalink: /csharp
 * [Ultra](https://github.com/egarim/Ultra)：Ultra是一套开源模块，用于扩展.NET应用程序框架DevExpress XAF的功能。
 * [Iron Framework](https://github.com/megadotnet/ironframework)：领域驱动设计(DDD)、分层架构、面向切面编程(AOP)快速开发基础设施。
 * [DragonSpark Framework](https://github.com/DragonSpark/Framework)：基于Blazor的应用程序开发框架。
+* [Harmony Core](https://github.com/Synergex/HarmonyCore)：Harmony Core是一个框架，旨在帮助Synergy开发人员创建RESTful Web服务。
 
 ## 权限管理系统
 
@@ -9418,6 +9424,7 @@ permalink: /csharp
 * [SlangShaderSharp](https://github.com/DominicMaas/SlangShaderSharp)：面向基于源代码生成的COM包装器的.NET 8+的Slang着色语言的C#绑定。
 * [Arqan](https://github.com/TheBoneJarmer/Arqan)：Arqan是一个用于C#的OpenGL和GLFW绑定，它允许你直接使用来自流行的GLFW库的所有OpenGL方法和枚举。
 * [SimdSkia](https://github.com/donet-org-cn/SimdSkia)：独立的C# 2D渲染器，支持CPU SIMD、Vulkan和部分SkiaSharp兼容API。
+* [Metal.NET](https://github.com/qian-o/Metal.NET)：为Apple的Metal、Metal 4和MetalFX框架提供低级、零开销的C#绑定。
 
 ## 布局库
 
@@ -10298,22 +10305,27 @@ permalink: /csharp
 * [Idunno.Bluesky](https://github.com/blowdart/idunno.Bluesky)：一个用于Bluesky社交网络的.NET类库。
 * [X.Bluesky](https://github.com/a-gubskiy/X.Bluesky)：X.Bluesky是一个.NET库，旨在让开发人员能够轻松地向去中心化社交网络Bluesky发布消息。
 * [Bluesky.Net](https://github.com/dariogriffo/bluesky-net)：atproto.com的非官方.NET实现。
+* [BlueSky.NET](https://github.com/qonqio/bluesky.net)：BlueSky的.NET SDK。
 
 ## Zendesk
 
 * [Zendesk API V2](https://github.com/Speedygeek/ZendeskApi_v2)：Zendesk API的C#封装。
-* [ZendeskApiClient](https://github.com/justeat/ZendeskApiClient)：用于操作Zendesk API的C#客户端。
+* [ZendeskApiClient](https://github.com/justeattakeaway/ZendeskApiClient)：用于操作Zendesk API的C#客户端。
+* [ZenDeskApi](https://github.com/eneifert/ZenDeskApi)：ZenDesk API的C#封装。
 
 ## Mastodon
 
 * [Mastonet](https://github.com/glacasa/Mastonet)：Mastonet是一个用C#编写的.NET Mastodon API库。
 * [TootNet](https://github.com/cucmberium/TootNet)：TootNet是一个用于.NET Standard的Mastodon库。
 * [Mastodot](https://github.com/yamachu/Mastodot)：用于Mastodon API的C#库。
+* [Mastodon API C#](https://github.com/pawotter/mastodon-api-cs)：适用于C#的Mastodon API客户端库。
 
 ## TheMovieDb
 
 * [TMDbLib](https://github.com/jellyfin/TMDbLib)：一个几乎完整的TMDb API v3 .NET包装程序。
 * [TheMovieDbWrapper](https://github.com/nCubed/TheMovieDbWrapper)：TheMovieDbWrapper是一个C#封装器，用于TheMovieDb.org API。
+* [TMDbWrapper](https://github.com/Fishes/TMDbWrapper)：用于与TheMovieDb.org API通信的库。
+* [Net.TMDb](https://github.com/miguelhasse/Net.TMDb)：用于在.NET中访问TMDb API的客户端库。
 
 ## SoundCloud
 
@@ -12811,6 +12823,7 @@ permalink: /csharp
 * [XiaoZhi.Net](https://github.com/mm7h/XiaoZhi.Net)：XiaoZhi.Net.Server是使用.NET 8开发的C# SDK，基于Websocket协议为XiaoZhi ESP32项目提供后端服务支持。
 * [TrakHound](https://github.com/TrakHound/TrakHound)：面向工业企业和物联网应用的开源应用框架。
 * [LoRa.Message](https://github.com/sntcz/LoRa.Message)：一个纯C#库，用于解码LoRa/LoRaWANTM无线通信数据包。
+* [jaNET](https://github.com/jambelnet/janet-framework)：一个免费开源的物联网框架。
 
 ## 物联网SDK
 
