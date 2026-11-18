@@ -2100,6 +2100,7 @@ permalink: /csharp
 * [LM-Kit.NET](https://lm-kit.com/)：LM-Kit.NET是适用于.NET的完整本地AI套件。
 * [SignsofAI](https://github.com/peopleworks/SignsofAI)：一个免费、以隐私为先的工具，它能标出AI生成写作的迹象、过度使用的词汇、修辞依赖、机械的句子节奏，并且对于每个问题，还会告诉你如何修正。
 * [MagiCore](https://github.com/jihadkhawaja/magicore)：MagiCore是一个以本地优先为核心的C#库，用于在智能体、助手、模拟和机器人中构建记忆功能。
+* [ElBruno.LocalLLMs](https://github.com/elbruno/ElBruno.LocalLLMs)：使用ONNX运行时的C#本地LLM聊天自动完成库。
 
 ## LLM框架
 
@@ -2203,6 +2204,7 @@ permalink: /csharp
 * [SharpAI](https://github.com/jchristn/SharpAI)：一个用于本地AI模型推理的.NET库，提供与Ollama和OpenAI兼容的REST API。
 * [HyMT2Sharp](https://github.com/sdcb/HyMT2Sharp)：纯C#的Hy-MT2非官方CPU推理实现。
 * [DotFly](https://github.com/kkokosa/dotFly)：DotFly是一个原生.NET推理引擎。
+* [WindowsML](https://github.com/microsoft/WindowsML)：Windows ML是一个统一且高性能的本地AI推理框架。
 
 ## 代理框架
 
@@ -2479,6 +2481,7 @@ permalink: /csharp
 * [ElBruno.Realtime](https://github.com/elbruno/ElBruno.Realtime)：.NET的可插拔实时音频对话框架，遵循Microsoft.Extensions.AI模式。
 * [PiperSharp](https://github.com/Lyx52/PiperSharp)：piper1-gpl TTS应用的一个简单C#包装器。
 * [AliParaformerAsr](https://github.com/manyeyes/AliParaformerAsr)：AliParaformerAsr是一个使用C#编写的语音识别库。
+* [ElBruno.Whisper](https://github.com/elbruno/ElBruno.Whisper)：使用ONNX运行时在.NET中实现本地Whisper语音转文本功能。
 
 ## 语音合成
 
@@ -4291,6 +4294,7 @@ permalink: /csharp
 * [Owin.Token.AspNetCore](https://github.com/turgayozgur/Owin.Token.AspNetCore)：这是一个简单的.NET Core库，用于读取基于OWIN的OAuth令牌。
 * [TinyOAuth1](https://github.com/johot/TinyOAuth1)：一个体积小巧、超级易用的OAuth 1.0a库，支持完整的OAuth流程。
 * [GPSOAuthSharp](https://github.com/vemacs/GPSOAuthSharp)：一个用C#编写的用于Google Play服务OAuth的.NET客户端库。
+* [AccessTokenClient](https://github.com/wapplegate/AccessTokenClient)：该库提供了一个访问令牌客户端，可用于发起客户端凭据OAuth请求。
 
 ## 授权服务器
 
@@ -4829,6 +4833,7 @@ permalink: /csharp
 * [PersianDate.NET](https://github.com/imanabidi/PersianDate.NET)：一个简单的库，用于在波斯语日期与格鲁吉亚日期之间转换。
 * [SharpSxwnl](https://github.com/HongchenMeng/SharpSxwnl)：农历核心算法类库。
 * [ICalendarNet](https://github.com/VandenboschVincent/ICalendarNet)：ICalendarNet是一个基于.NET的iCalendar类库，旨在提供符合RFC 5545标准的功能，同时与流行的日历应用程序和库完全兼容。
+* [NepDate](https://github.com/RajuPrasai/NepDate)：超快且内存效率极高的尼泊尔语日期结构体。
 
 ## 假期库
 
@@ -7525,6 +7530,7 @@ permalink: /csharp
 * [PeachPie Templates](https://github.com/peachpiecompiler/peachpie-templates)：该存储库包含各种.NET项目模板，可用于创建PeachPie编译应用程序。
 * [Backend Frontend Template](https://github.com/mccsoft/backend-frontend-template)：这是一个用于设置后端ASP.NET Core项目和前端React的模板。
 * [Scaffold](https://github.com/aussieBIMguru/Scaffold)：Scaffold用作新开发的起点。
+* [NETCoreAPIBoilerplate](https://github.com/bervProject/NETCoreAPIBoilerplate)：.NET Core Web API样板。
 
 ## 后台管理系统
 
@@ -11896,6 +11902,7 @@ permalink: /csharp
 * [GazeFlowAPI](https://github.com/szydej/GazeFlowAPI)：基于网络摄像头的眼动追踪API。
 * [Xbox One SmartGlass .NET](https://github.com/OpenXbox/xbox-smartglass-csharp)：.NET Standard客户端库，用于Xbox One SmartGlass协议。
 * [Canon.Eos.Framework](https://github.com/esskar/Canon.Eos.Framework)：Canon.Eos.Framework旨在提供一种更好、更方便的方式，将Canon EOS SDK集成到.NET应用程序中。
+* [FC.SDK](https://github.com/SharpAstro/FC.SDK)：通过USB、WiFi和Windows MTP协议，以PTP方式控制佳能EOS相机。
 * [MightyHID](https://github.com/MightyDevices/MightyHID)：用于在C#中处理HID USB设备的简单库。
 * [MG.CamCtrl](https://github.com/laomaogu/MG.CamCtrl)：C#工业相机库，含海康(HIK)、大恒、巴斯勒(Basler)等相机的常用功能。
 * [SonyAPILib](https://github.com/KHerron/SonyAPILib)：索尼智能设备C# API库，用于远程控制。
@@ -12383,6 +12390,7 @@ permalink: /csharp
 * [IEU.Core](https://github.com/ptrsuder/IEU.Core)：图像增强工具的核心库。
 * [Sdcb.SimdCodecs](https://github.com/sdcb/SimdCodecs)：适用于.NET 10的纯托管图像编解码器。
 * [CSharp Dithering](https://github.com/mcraiha/CSharp-Dithering)：CSharp Dithering是一个C#实现的抖动算法库。
+* [OpenSlideSharp](https://github.com/IOL0ol1/OpenSlideSharp)：OpenSlide 4.x的.NET绑定。
 
 ## 二维码
 
